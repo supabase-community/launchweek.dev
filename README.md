@@ -1,6 +1,30 @@
-# Website
+# launchweek.dev
+
+This repository tracks past and upcoming launch weeks across the dev tools space. 
+
+**What's a launch week?**
+
+It's a week of announcing new features.
+
+**The objective?**
+
+- **For developers**, to save the date and discover awesome developer-first products;
+- **For dev-first founders and marketers**, to help plan and promote their launch weeks and find inspiration.
+
+This repo is maintained by [Ellen](https://x.com/ellenchisa), [Paul](https://x.com/kiwicopple) and [Flo](https://x.com/fmerian).
+
+```diff
++ 👀 Watch this to get notifications about new launch weeks
+```
+
+## About
 
 This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+
+- [Installation](#installation)
+- [Local Development](#local-development)
+- [Build](#build)
+- [Deployment](#deployment)
 
 ### Installation
 
@@ -38,4 +62,4 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+If you're using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
