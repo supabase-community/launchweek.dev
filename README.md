@@ -11,7 +11,7 @@ It's a week of announcing new features.
 - **For developers**, to save the date and discover awesome developer-first products;
 - **For dev-first founders and marketers**, to help plan and promote their launch weeks and find inspiration.
 
-This repo is maintained by [Ellen](https://x.com/ellenchisa), [Paul](https://x.com/kiwicopple) and [Flo](https://x.com/fmerian).
+This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.com/ellenchisa), [Paul](https://x.com/kiwicopple) and [Flo](https://x.com/fmerian).
 
 ```diff
 + 👀 Watch this to get notifications about new launch weeks
