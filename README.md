@@ -23,7 +23,7 @@ This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.c
 
 ### 2023
 
-> Total count: 28
+> Total count: 31
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811?s=20)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
@@ -31,9 +31,11 @@ This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.c
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736?s=20) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
 - 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755?s=20)
 - 2023 / 10 / 17-20: Depot Launch Week #2. [Teaser ↗︎](https://x.com/kylegalbraith/status/1701595820272042371?s=20)
-- 2023 / 10 / 17-20: Sequin Launch Week.
+- 2023 / 10 / 17-20: Sequin Launch Week. 
 - 2023 / 10 / 16-22: Wasp Launch Week #4. [Read the announcement ↗︎](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four)
 - 2023 / 10 / 06-13: Dagster Launch Week. [Read the recap ↗︎](https://dagster.io/events/dagster-launch-week-oct-2023)
+- 2023 / 10 / 02-06: Mux Launch Week. [Read the thread ↗︎](https://x.com/MuxHQ/status/1708940798891299061)
+- 2023 / 09 / 25-29: Documenso Launch Week. [Teaser ↗︎](https://x.com/documenso/status/1705175181545849001)
 - 2023 / 09 / 25-29: Mintlify Launch Week. [Read the announcement ↗︎](https://x.com/mintlify/status/1706326969472962641?s=20) [Read the recap ↗︎](https://mintlify.com/blog/launch-week-wrapup)
 - 2023 / 09 / 25-29: Railway Launch Week. [Teaser ↗︎](https://x.com/Railway/status/1704959789716119858?s=20)
 - 2023 / 09 / 25-29: Turso Launch Week. [Read the announcement ↗︎](https://x.com/tursodatabase/status/1701687743842062622?s=20) [Read the recap ↗︎](https://blog.turso.tech/turso-launch-week-accelerates-growth-nets-1-5k-new-users-in-7-days-2829ed781dc2)
