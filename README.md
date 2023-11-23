@@ -27,6 +27,7 @@ This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.c
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811?s=20)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
+- 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
 - 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736?s=20) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
 - 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755?s=20)
