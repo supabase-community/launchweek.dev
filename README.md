@@ -1,20 +1,32 @@
 # launchweek.dev
 
-This repository tracks past and upcoming launch weeks across the dev tools space. 
+## Intro
 
-**What's a launch week?**
+### What's a launch week?
 
-It's a week of announcing new features.
+It's a week of announcing new features. [See examples below](#launch-weeks).
 
-**The objective?**
+**This repository tracks past and upcoming launch weeks across the dev tools space.**
+
+### Objectives
 
 - **For developers**, to save the date and discover awesome developer-first products;
 - **For dev-first founders and marketers**, to help plan and promote their launch weeks and find inspiration.
 
+### Want to contribute?
+
+Awesome! Feel free to open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add more launch weeks to the repo.
+
+### About
+
 This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.com/ellenchisa), [Paul](https://x.com/kiwicopple) and [Flo](https://x.com/fmerian).
 
+For best practices, read this:
+
+[How we launch at Supabase (by Ant Wilson) ↗︎](https://supabase.com/blog/supabase-how-we-launch)
+
 ```diff
-+ 👀 Watch this to get notifications about new launch weeks
++ 👀 Watch this repo to get notifications about new launch weeks
 ```
 
 ## Launch weeks
