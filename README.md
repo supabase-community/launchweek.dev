@@ -1,5 +1,14 @@
 # launchweek.dev
 
+## Upcoming
+
+> You? Open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
+
+- 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811)
+- 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
+- 2023 / 11 / 21-25: Fastgen Launch Week. [Read the announcement ↗︎](https://x.com/FastgenHQ/status/1726753060867731468)
+- 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
+
 ## Intro
 
 ### What's a launch week?
@@ -16,8 +25,6 @@ It's a week of announcing new features. [See examples below](#launch-weeks).
 ### Want to contribute?
 
 Awesome! Feel free to open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add more launch weeks to the repo.
-
-### About
 
 This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.com/ellenchisa), [Paul](https://x.com/kiwicopple) and [Flo](https://x.com/fmerian).
 
