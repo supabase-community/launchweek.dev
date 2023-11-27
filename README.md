@@ -6,8 +6,6 @@
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
-- 2023 / 11 / 21-25: Fastgen Launch Week. [Read the announcement ↗︎](https://x.com/FastgenHQ/status/1726753060867731468)
-- 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
 
 ## Intro
 
@@ -50,7 +48,7 @@ For best practices, read this:
 - 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
 - 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
-- 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755)
+- 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755) [Go to launch page ↗︎](http://outerbase.com/launch-week/)
 - 2023 / 10 / 17-20: Depot Launch Week #2. [Teaser ↗︎](https://x.com/kylegalbraith/status/1701595820272042371)
 - 2023 / 10 / 17-20: Sequin Launch Week. 
 - 2023 / 10 / 16-22: Wasp Launch Week #4. [Read the announcement ↗︎](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four)
