@@ -40,7 +40,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 32
+> Total count: 34
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
@@ -65,6 +65,7 @@ For best practices, read this:
 - 2023 / 07 / 17-20: Depot Launch Week #1. [Read the announcement ↗︎](https://twitter.com/depotdev/status/1680940913059667968) [Read the recap ↗︎](https://depot.dev/blog/drop-week-01) [Go to launch page ↗︎](https://depot.dev/drop-week/01)
 - 2023 / 07 / 03-07: Remotion Launch Week. [Read the announcement ↗︎](https://twitter.com/Remotion/status/1673336847768903685)
 - 2023 / 06 / 26-30: Wasp Launch Week #3. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three)
+- 2023 / 06 / 20-23: Starburst Galaxy Launch Week. [Teaser ↗︎](https://x.com/starburstdata/status/1668616246726672384) [Go to launch page ↗︎](https://www.starburst.io/launch-week/)
 - 2023 / 06 / 12-16: Specify Launch Week. [Read the announcement ↗︎](https://x.com/specifyapp/status/1666069047048282112) [Read the recap ↗︎](https://specifyapp.com/blog/launch-week-1-wrap-up) [Go to launch page ↗︎](https://specifyapp.com/launchweek)
 - 2023 / 06 / 06-08: Semgrep Launch Week. [Read the thread ↗︎](https://x.com/semgrep/status/1666135556353581057) [Go to launch page ↗︎](https://semgrep.dev/resources/launch-week/)
 - 2023 / 04 / 17-23: Grafbase Launch Week. [Teaser ↗︎](https://twitter.com/grafbase/status/1640439800338456586)
