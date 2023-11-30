@@ -61,7 +61,7 @@ For best practices, read this:
 - 2023 / 09 / 11-15: Fine Launch Week. [Teaser ↗︎](https://twitter.com/thisisfinedev/status/1700788560859738280)
 - 2023 / 08 / 28-01: Xata Launch Week. [Read the announcement ↗︎](https://twitter.com/xata/status/1696162078619320452) [Read the recap ↗︎](https://twitter.com/xata/status/1697942269574189238)
 - 2023 / 08 / 21-25: Warp Launch Week. [Teaser ↗︎](https://twitter.com/warpdotdev/status/1693631866580922447) [Read the recap ↗︎](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features)
-- 2023 / 08 / 7-11: Supabase Launch Week #8. [Teaser ↗︎](https://twitter.com/supabase/status/1677283789582598145) [Read the announcement ↗︎](https://twitter.com/supabase/status/1683818718831185920?s=20) [Read the recap ↗︎](https://twitter.com/supabase/status/1691043574488473600)
+- 2023 / 08 / 7-11: Supabase Launch Week #8. [Teaser ↗︎](https://twitter.com/supabase/status/1677283789582598145) [Read the announcement ↗︎](https://twitter.com/supabase/status/1683818718831185920?s=20) [Read the recap ↗︎](https://twitter.com/supabase/status/1691043574488473600) [Go to launch page ↗︎](https://supabase.com/launch-week/8)
 - 2023 / 07 / 17-20: Depot Launch Week #1. [Read the announcement ↗︎](https://twitter.com/depotdev/status/1680940913059667968) [Read the recap ↗︎](https://depot.dev/blog/drop-week-01) [Go to launch page ↗︎](https://depot.dev/drop-week/01)
 - 2023 / 07 / 03-07: Remotion Launch Week. [Read the announcement ↗︎](https://twitter.com/Remotion/status/1673336847768903685)
 - 2023 / 06 / 26-30: Wasp Launch Week #3. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three)
@@ -72,7 +72,7 @@ For best practices, read this:
 - 2023 / 04 / 17-21: Tinybird Launch Week #2. [Teaser ↗︎](https://twitter.com/tinybirdco/status/1645443033163259905) [Go to launch page ↗︎](https://www.tinybird.co/launch-week)
 - 2023 / 04 / 12-17: Wasp Launch Week #2. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/04/11/wasp-launch-week-two)
 - 2023 / 04 / 10-14: Livebook Launch Week. [Read the announcement ↗︎](https://twitter.com/livebookdev/status/1644414219390005248)
-- 2023 / 04 / 10-14: Supabase Launch Week #7. [Read the announcement ↗︎](https://twitter.com/supabase/status/1644388184413949952) [Read the recap ↗︎](https://supabase.com/launch-week)
+- 2023 / 04 / 10-14: Supabase Launch Week #7. [Read the announcement ↗︎](https://twitter.com/supabase/status/1644388184413949952) [Read the recap ↗︎](https://supabase.com/launch-week) [Go to launch page ↗︎](https://supabase.com/launch-week/7)
 - 2023 / 04 / 03-07: Payload Launch Week #2.
 - 2023 / 03 / 06-13: Resend Launch Week #1. [Read the announcement ↗︎](https://twitter.com/resendlabs/status/1631311901140582400) [Read the recap ↗︎](https://resend.com/blog/launch-week-1-wrap-up)
 - 2023 / 02 / 28-04: Tinybird Launch Week #1.
@@ -84,7 +84,7 @@ For best practices, read this:
 
 > Total count: 9
 
-- 2022 / 12 / 12-16: Supabase Launch Week #6. [Read the recap ↗︎](https://supabase.com/blog/launch-week-6-wrap-up)
+- 2022 / 12 / 12-16: Supabase Launch Week #6. [Read the recap ↗︎](https://supabase.com/blog/launch-week-6-wrap-up) [Go to launch page ↗︎](https://supabase.com/launch-week/6)
 - 2022 / 11 / 27-02: Wasp Launch Week #1. [Read the announcement ↗︎](https://wasp-lang.dev/blog/2022/11/26/wasp-beta-launch-week)
 - 2022 / 11 / 14-18: Payload Launch Week #1. [Read the announcement ↗︎](https://payloadcms.com/blog/launch-week)
 - 2022 / 08 / 15-19: Liveblocks Launch Week #1. [Read the announcement ↗︎](https://twitter.com/liveblocks/status/1557366212547338243) [Read the recap ↗︎](https://liveblocks.io/blog/from-collaborative-spreadsheets-to-text-editors-make-your-product-multiplayer-with-liveblocks)
