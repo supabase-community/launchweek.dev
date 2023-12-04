@@ -40,7 +40,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 35
+> Total count: 37
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
@@ -63,6 +63,7 @@ For best practices, read this:
 - 2023 / 08 / 21-25: Warp Launch Week. [Teaser ↗︎](https://twitter.com/warpdotdev/status/1693631866580922447) [Read the recap ↗︎](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features)
 - 2023 / 08 / 7-11: Supabase Launch Week #8. [Teaser ↗︎](https://twitter.com/supabase/status/1677283789582598145) [Read the announcement ↗︎](https://twitter.com/supabase/status/1683818718831185920?s=20) [Read the recap ↗︎](https://twitter.com/supabase/status/1691043574488473600) [Go to launch page ↗︎](https://supabase.com/launch-week/8)
 - 2023 / 07 / 17-20: Depot Launch Week #1. [Read the announcement ↗︎](https://twitter.com/depotdev/status/1680940913059667968) [Read the recap ↗︎](https://depot.dev/blog/drop-week-01) [Go to launch page ↗︎](https://depot.dev/drop-week/01)
+- 2023 / 07 / 13-20: Highlight.io Launch Week #2. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-2)
 - 2023 / 07 / 03-07: Remotion Launch Week. [Read the announcement ↗︎](https://twitter.com/Remotion/status/1673336847768903685)
 - 2023 / 06 / 26-30: Convoy Launch Week. [Read the announcement ↗︎](https://www.getconvoy.io/blog/convoy-launch-week)
 - 2023 / 06 / 26-30: Wasp Launch Week #3. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three)
