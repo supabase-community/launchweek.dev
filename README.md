@@ -70,6 +70,7 @@ For best practices, read this:
 - 2023 / 06 / 12-16: Specify Launch Week. [Read the announcement ↗︎](https://x.com/specifyapp/status/1666069047048282112) [Read the recap ↗︎](https://specifyapp.com/blog/launch-week-1-wrap-up) [Go to launch page ↗︎](https://specifyapp.com/launchweek)
 - 2023 / 06 / 06-08: Semgrep Launch Week. [Read the thread ↗︎](https://x.com/semgrep/status/1666135556353581057) [Go to launch page ↗︎](https://semgrep.dev/resources/launch-week/)
 - 2023 / 04 / 17-23: Grafbase Launch Week. [Teaser ↗︎](https://twitter.com/grafbase/status/1640439800338456586)
+- 2023 / 04 / 17-21: Highlight.io Launch Week #1. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-1)
 - 2023 / 04 / 17-21: Tinybird Launch Week #2. [Teaser ↗︎](https://twitter.com/tinybirdco/status/1645443033163259905) [Go to launch page ↗︎](https://www.tinybird.co/launch-week)
 - 2023 / 04 / 12-17: Wasp Launch Week #2. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/04/11/wasp-launch-week-two)
 - 2023 / 04 / 10-14: Livebook Launch Week. [Read the announcement ↗︎](https://twitter.com/livebookdev/status/1644414219390005248)
