@@ -2,7 +2,7 @@
 
 ## Upcoming
 
-> You? Open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
+> You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
@@ -22,7 +22,7 @@ It's a week of announcing new features. [See examples below](#launch-weeks).
 
 ### Want to contribute?
 
-Awesome! Feel free to open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add more launch weeks to the repo.
+Awesome! Feel free to [create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add more launch weeks to the repo.
 
 This repo is maintained by [Anna](https://github.com/maban), [Ellen](https://x.com/ellenchisa), [Paul](https://x.com/kiwicopple) and [Flo](https://x.com/fmerian).
 
@@ -79,7 +79,7 @@ For best practices, read this:
 - 2023 / 02 / 28-04: Tinybird Launch Week #1.
 - 2023 / 02 / 06-10: Liveblocks Launch Week #2. [Read the announcement ↗︎](https://twitter.com/liveblocks/status/1620422958719315968) [Read the recap ↗︎](https://liveblocks.io/blog/launch-week-2-wrap-up)
 
-[Back to top ↑](#launch-weeks)
+[↑ Back to top](#launch-weeks)
 
 ### 2022
 
@@ -95,7 +95,7 @@ For best practices, read this:
 - 2022 / 03 / 28-01: Supabase Launch Week #4. [Read the announcement ↗︎](https://supabase.com/blog/supabase-launch-week-four)
 - 2022 / 03 / 21-25: PostHog Launch Week. [Read the recap ↗︎](https://posthog.com/blog/launch-week-universe-of-new-features)
 
-[Back to top ↑](#launch-weeks)
+[↑ Back to top](#launch-weeks)
 
 ### 2021
 
@@ -105,7 +105,7 @@ For best practices, read this:
 - 2021 / 07 / 26-30: Supabase Launch Week #2. [Read the announcement ↗︎](https://supabase.com/blog/supabase-launch-week-sql)
 - 2021 / 03 / 29-02: Supabase Launch Week #1. [Read the announcement ↗︎](https://supabase.com/blog/launch-week)
 
-[Back to top ↑](#launch-weeks)
+[↑ Back to top](#launch-weeks)
 
 ## About
 
