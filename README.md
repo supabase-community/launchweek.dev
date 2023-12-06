@@ -40,7 +40,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 38
+> Total count: 40
 
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
@@ -157,3 +157,7 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you're using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+## Contributing
+
+See here: [CONTRIBUTING.md](https://github.com/supabase-community/launchweek.dev/blob/main/CONTRIBUTING.md)
