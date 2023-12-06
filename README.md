@@ -63,6 +63,7 @@ For best practices, read this:
 - 2023 / 08 / 28-01: Xata Launch Week. [Read the announcement ↗︎](https://twitter.com/xata/status/1696162078619320452) [Read the recap ↗︎](https://twitter.com/xata/status/1697942269574189238)
 - 2023 / 08 / 21-25: Warp Launch Week. [Teaser ↗︎](https://twitter.com/warpdotdev/status/1693631866580922447) [Read the recap ↗︎](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features)
 - 2023 / 08 / 7-11: Supabase Launch Week #8. [Teaser ↗︎](https://twitter.com/supabase/status/1677283789582598145) [Read the announcement ↗︎](https://twitter.com/supabase/status/1683818718831185920?s=20) [Read the recap ↗︎](https://twitter.com/supabase/status/1691043574488473600) [Go to launch page ↗︎](https://supabase.com/launch-week/8)
+- 2023 / 07 / 24-28: Correlated Launch Week. [Read the recap ↗︎](https://www.getcorrelated.com/blog/correlated-launch-week-1-recap)
 - 2023 / 07 / 17-20: Depot Launch Week #1. [Read the announcement ↗︎](https://twitter.com/depotdev/status/1680940913059667968) [Read the recap ↗︎](https://depot.dev/blog/drop-week-01) [Go to launch page ↗︎](https://depot.dev/drop-week/01)
 - 2023 / 07 / 13-20: Highlight.io Launch Week #2. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-2)
 - 2023 / 07 / 03-07: Remotion Launch Week. [Read the announcement ↗︎](https://twitter.com/Remotion/status/1673336847768903685)
