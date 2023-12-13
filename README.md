@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 01 / 08-12: Mintlify Launch Week #2. [Teaser ↗︎](https://twitter.com/mintlify/status/1734624009721934022)
 - 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 
@@ -36,12 +37,19 @@ For best practices, read this:
 
 ## Launch weeks
 
-> Quick links: [2023](#2023) - [2022](#2022) - [2021](#2021)
+> Quick links: [2024](#2024) - [2023](#2023) - [2022](#2022) - [2021](#2021)
+
+### 2024
+
+> Total count: 1
+
+- 2024 / 01 / 08-12: Mintlify Launch Week #2. [Teaser ↗︎](https://twitter.com/mintlify/status/1734624009721934022)
 
 ### 2023
 
-> Total count: 40
+> Total count: 41
 
+- 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
 - 2023 / 11 / 21-25: Fastgen Launch Week. [Read the announcement ↗︎](https://x.com/FastgenHQ/status/1726753060867731468)
@@ -56,7 +64,7 @@ For best practices, read this:
 - 2023 / 10 / 06-13: Dagster Launch Week. [Read the recap ↗︎](https://dagster.io/events/dagster-launch-week-oct-2023)
 - 2023 / 10 / 02-06: Mux Launch Week. [Read the thread ↗︎](https://x.com/MuxHQ/status/1708940798891299061)
 - 2023 / 09 / 25-29: Documenso Launch Week. [Teaser ↗︎](https://x.com/documenso/status/1705175181545849001)
-- 2023 / 09 / 25-29: Mintlify Launch Week. [Read the announcement ↗︎](https://x.com/mintlify/status/1706326969472962641) [Read the recap ↗︎](https://mintlify.com/blog/launch-week-wrapup)
+- 2023 / 09 / 25-29: Mintlify Launch Week #1. [Read the announcement ↗︎](https://x.com/mintlify/status/1706326969472962641) [Read the recap ↗︎](https://mintlify.com/blog/launch-week-wrapup)
 - 2023 / 09 / 25-29: Railway Launch Week. [Teaser ↗︎](https://x.com/Railway/status/1704959789716119858?s=20) [Go to launch page ↗︎](https://railway.app/launch-week-01)
 - 2023 / 09 / 25-29: Turso Launch Week. [Read the announcement ↗︎](https://x.com/tursodatabase/status/1701687743842062622) [Read the recap ↗︎](https://blog.turso.tech/turso-launch-week-accelerates-growth-nets-1-5k-new-users-in-7-days-2829ed781dc2)
 - 2023 / 09 / 11-15: Fine Launch Week. [Teaser ↗︎](https://twitter.com/thisisfinedev/status/1700788560859738280)
