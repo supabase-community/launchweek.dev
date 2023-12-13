@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 
 ## Intro
