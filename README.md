@@ -47,7 +47,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 41
+> Total count: 42
 
 - 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
@@ -67,6 +67,7 @@ For best practices, read this:
 - 2023 / 09 / 25-29: Mintlify Launch Week #1. [Read the announcement ↗︎](https://x.com/mintlify/status/1706326969472962641) [Read the recap ↗︎](https://mintlify.com/blog/launch-week-wrapup)
 - 2023 / 09 / 25-29: Railway Launch Week. [Teaser ↗︎](https://x.com/Railway/status/1704959789716119858?s=20) [Go to launch page ↗︎](https://railway.app/launch-week-01)
 - 2023 / 09 / 25-29: Turso Launch Week. [Read the announcement ↗︎](https://x.com/tursodatabase/status/1701687743842062622) [Read the recap ↗︎](https://blog.turso.tech/turso-launch-week-accelerates-growth-nets-1-5k-new-users-in-7-days-2829ed781dc2)
+- 2023 / 09 / 12-15: Wundergraph Launch Week. [Read the announcement ↗︎](https://x.com/wundergraphcom/status/1701219048082813035)
 - 2023 / 09 / 11-15: Fine Launch Week. [Teaser ↗︎](https://twitter.com/thisisfinedev/status/1700788560859738280)
 - 2023 / 08 / 28-01: Xata Launch Week. [Read the announcement ↗︎](https://twitter.com/xata/status/1696162078619320452) [Read the recap ↗︎](https://twitter.com/xata/status/1697942269574189238)
 - 2023 / 08 / 21-25: Warp Launch Week. [Teaser ↗︎](https://twitter.com/warpdotdev/status/1693631866580922447) [Read the recap ↗︎](https://www.warp.dev/blog/shippable-innovation-how-one-hack-week-produced-five-ready-to-launch-features)
