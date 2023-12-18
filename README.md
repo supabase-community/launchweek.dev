@@ -5,8 +5,6 @@
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
 - 2024 / 01 / 08-12: Mintlify Launch Week #2. [Teaser ↗︎](https://twitter.com/mintlify/status/1734624009721934022)
-- 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
-- 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 
 ## Intro
 
@@ -47,9 +45,10 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 42
+> Total count: 43
 
 - 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
+- 2023 / 12 / 11-15: Grafbase Launch Week #2. [Teaser ↗︎](https://twitter.com/grafbase/status/1730144897351483602)
 - 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
 - 2023 / 11 / 21-25: Fastgen Launch Week. [Read the announcement ↗︎](https://x.com/FastgenHQ/status/1726753060867731468)
@@ -81,7 +80,7 @@ For best practices, read this:
 - 2023 / 06 / 20-23: Starburst Galaxy Launch Week. [Teaser ↗︎](https://x.com/starburstdata/status/1668616246726672384) [Go to launch page ↗︎](https://www.starburst.io/launch-week/)
 - 2023 / 06 / 12-16: Specify Launch Week. [Read the announcement ↗︎](https://x.com/specifyapp/status/1666069047048282112) [Read the recap ↗︎](https://specifyapp.com/blog/launch-week-1-wrap-up) [Go to launch page ↗︎](https://specifyapp.com/launchweek)
 - 2023 / 06 / 06-08: Semgrep Launch Week. [Read the thread ↗︎](https://x.com/semgrep/status/1666135556353581057) [Go to launch page ↗︎](https://semgrep.dev/resources/launch-week/)
-- 2023 / 04 / 17-23: Grafbase Launch Week. [Teaser ↗︎](https://twitter.com/grafbase/status/1640439800338456586)
+- 2023 / 04 / 17-23: Grafbase Launch Week #1. [Teaser ↗︎](https://twitter.com/grafbase/status/1640439800338456586)
 - 2023 / 04 / 17-21: Highlight.io Launch Week #1. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-1)
 - 2023 / 04 / 17-21: Tinybird Launch Week #2. [Teaser ↗︎](https://twitter.com/tinybirdco/status/1645443033163259905) [Go to launch page ↗︎](https://www.tinybird.co/launch-week)
 - 2023 / 04 / 12-17: Wasp Launch Week #2. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/04/11/wasp-launch-week-two)
