@@ -55,7 +55,7 @@ For best practices, read this:
 - 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
 - 2023 / 11 / 16-18: Highlight.io Launch Week #3. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-3)
 - 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
-- 2023 / 11 / 13-17: Sentry Launch Week. [Read the announcements ↗︎](https://sentry.io/events/launch-week/)
+- 2023 / 11 / 13-17: Sentry Launch Week. [Go to launch page ↗︎](https://sentry.io/events/launch-week/)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
 - 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755) [Go to launch page ↗︎](http://outerbase.com/launch-week/)
 - 2023 / 10 / 17-20: Depot Launch Week #2. [Teaser ↗︎](https://x.com/kylegalbraith/status/1701595820272042371)
