@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 01 / 15-19: Resend Launch Week #2. [Teaser ↗︎](https://x.com/resend/status/1744374127887040933?s=20) [Go to launch page ↗︎](https://resend.com/forward)
 - 2024 / 01 / 08-12: Mintlify Launch Week #2. [Teaser ↗︎](https://twitter.com/mintlify/status/1734624009721934022)
 
 ## Intro
@@ -39,13 +40,14 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 1
+> Total count: 2
 
+- 2024 / 01 / 15-19: Resend Launch Week #2. [Teaser ↗︎](https://x.com/resend/status/1744374127887040933?s=20) [Go to launch page ↗︎](https://resend.com/forward)
 - 2024 / 01 / 08-12: Mintlify Launch Week #2. [Teaser ↗︎](https://twitter.com/mintlify/status/1734624009721934022)
 
 ### 2023
 
-> Total count: 43
+> Total count: 44
 
 - 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Grafbase Launch Week #2. [Teaser ↗︎](https://twitter.com/grafbase/status/1730144897351483602)
