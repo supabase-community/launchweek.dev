@@ -45,7 +45,6 @@ For best practices, read this:
 
 - 2024 / 01 / 15-19: Resend Launch Week #2. [Teaser ↗︎](https://x.com/resend/status/1744374127887040933?s=20) [Go to launch page ↗︎](https://resend.com/forward)
 - 2024 / 01 / 15-19: Revert Launch Week. [Teaser ↗︎](https://x.com/revertdotdev/status/1745718487744401456?s=20)
-- 2024 / 01 / 08-12: Mintlify Launch Week #2. [Teaser ↗︎](https://twitter.com/mintlify/status/1734624009721934022)
 
 ### 2023
 
