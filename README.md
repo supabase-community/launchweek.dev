@@ -79,7 +79,7 @@ For best practices, read this:
 - 2023 / 07 / 17-20: Depot Launch Week #1. [Read the announcement ↗︎](https://twitter.com/depotdev/status/1680940913059667968) [Read the recap ↗︎](https://depot.dev/blog/drop-week-01) [Go to launch page ↗︎](https://depot.dev/drop-week/01)
 - 2023 / 07 / 13-20: Highlight.io Launch Week #2. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-2)
 - 2023 / 07 / 03-07: Remotion Launch Week. [Read the announcement ↗︎](https://twitter.com/Remotion/status/1673336847768903685)
-- 2023 / 06 / 26-30: Convoy Launch Week. [Read the announcement ↗︎](https://www.getconvoy.io/blog/convoy-launch-week) [Go to Launch Page ↗︎](https://web.archive.org/web/20230619112856/https://launchweek.getconvoy.io/?utm_content=253380675&utm_medium=social&utm_source=twitter&hss_channel=tw-1187731351178493953)
+- 2023 / 06 / 26-30: Convoy Launch Week. [Read the announcement ↗︎](https://www.getconvoy.io/blog/convoy-launch-week) [Go to launch page ↗︎](https://web.archive.org/web/20230619112856/https://launchweek.getconvoy.io/)
 - 2023 / 06 / 26-30: Wasp Launch Week #3. [Read the recap ↗︎](https://wasp-lang.dev/blog/2023/06/22/wasp-launch-week-three)
 - 2023 / 06 / 20-23: Starburst Galaxy Launch Week. [Teaser ↗︎](https://x.com/starburstdata/status/1668616246726672384) [Go to launch page ↗︎](https://www.starburst.io/launch-week/)
 - 2023 / 06 / 12-16: Specify Launch Week. [Read the announcement ↗︎](https://x.com/specifyapp/status/1666069047048282112) [Read the recap ↗︎](https://specifyapp.com/blog/launch-week-1-wrap-up) [Go to launch page ↗︎](https://specifyapp.com/launchweek)
