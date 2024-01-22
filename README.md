@@ -5,8 +5,6 @@
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
 - 2024 / 01 / 22-25: Inngest Launch Week. [Teaser ↗︎](https://twitter.com/inngest/status/1746942045820719172) [Go to launch page ↗︎](https://www.inngest.com/launch-week)
-- 2024 / 01 / 15-19: Resend Launch Week #2. [Teaser ↗︎](https://x.com/resend/status/1744374127887040933?s=20) [Go to launch page ↗︎](https://resend.com/forward)
-- 2024 / 01 / 15-19: Revert Launch Week. [Teaser ↗︎](https://x.com/revertdotdev/status/1745718487744401456?s=20)
 
 ## Intro
 
