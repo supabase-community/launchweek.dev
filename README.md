@@ -40,8 +40,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 5
-
+> Total count: 6
+> 
+- 2024 / 01 / 30-8: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
 - 2024 / 01 / 23-29: Wasp Launch Week #5.
 - 2024 / 01 / 22-25: Inngest Launch Week. [Teaser ↗︎](https://twitter.com/inngest/status/1746942045820719172) [Go to launch page ↗︎](https://www.inngest.com/launch-week)
 - 2024 / 01 / 15-19: Resend Launch Week #2. [Teaser ↗︎](https://x.com/resend/status/1744374127887040933?s=20) [Read the recap ↗︎](https://x.com/zenorocha/status/1749461869948186975?s=20) [Go to launch page ↗︎](https://resend.com/forward)
