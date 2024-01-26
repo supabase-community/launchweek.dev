@@ -52,7 +52,7 @@ For best practices, read this:
 
 ### 2023
 
-> Total count: 44
+> Total count: 45
 
 - 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Grafbase Launch Week #2. [Teaser ↗︎](https://twitter.com/grafbase/status/1730144897351483602)
@@ -70,6 +70,7 @@ For best practices, read this:
 - 2023 / 10 / 16-22: Wasp Launch Week #4. [Read the announcement ↗︎](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four)
 - 2023 / 10 / 06-13: Dagster Launch Week. [Read the recap ↗︎](https://dagster.io/events/dagster-launch-week-oct-2023)
 - 2023 / 10 / 02-06: Mux Launch Week. [Read the thread ↗︎](https://x.com/MuxHQ/status/1708940798891299061)
+- 2023 / 09 / 25-29: Zuplo Launch Week. [Read the thread ↗︎](https://x.com/zuplo/status/1706318614788256088)
 - 2023 / 09 / 25-29: Documenso Launch Week. [Teaser ↗︎](https://x.com/documenso/status/1705175181545849001)
 - 2023 / 09 / 25-29: Mintlify Launch Week #1. [Read the announcement ↗︎](https://x.com/mintlify/status/1706326969472962641) [Read the recap ↗︎](https://mintlify.com/blog/launch-week-wrapup)
 - 2023 / 09 / 25-29: Railway Launch Week. [Teaser ↗︎](https://x.com/Railway/status/1704959789716119858?s=20) [Go to launch page ↗︎](https://railway.app/launch-week-01)
