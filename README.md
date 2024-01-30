@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217)
 - 2024 / 01 / 23-29: Wasp Launch Week #5.
@@ -41,9 +42,10 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 7
-> 
+> Total count: 8
+
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
+- 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217)
 - 2024 / 01 / 23-29: Wasp Launch Week #5.
 - 2024 / 01 / 22-25: Inngest Launch Week. [Teaser ↗︎](https://twitter.com/inngest/status/1746942045820719172) [Go to launch page ↗︎](https://www.inngest.com/launch-week)
