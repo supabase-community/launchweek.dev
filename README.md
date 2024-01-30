@@ -6,7 +6,7 @@
 
 - 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
-- 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217)
+- 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Launch Page ↗︎](https://www.highlight.io/launch/week-4)
 
 ## Intro
 
