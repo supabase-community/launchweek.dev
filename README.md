@@ -41,8 +41,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 7
-> 
+> Total count: 8
+>
+- 2024 / 01 / 29-02: Loops Launch Week. [Teaser ↗︎](https://x.com/loops/status/1751970745226342720?s=20) [Blog ↗︎](https://loops.so/changelog/january-2024-day1)
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217)
 - 2024 / 01 / 23-29: Wasp Launch Week #5.
