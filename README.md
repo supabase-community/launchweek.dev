@@ -62,7 +62,7 @@ For best practices, read this:
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
 - 2023 / 11 / 21-25: Fastgen Launch Week. [Read the announcement ↗︎](https://x.com/FastgenHQ/status/1726753060867731468)
 - 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
-- 2023 / 11 / 16-18: Highlight.io Launch Week #3. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-3)
+- 2023 / 11 / 16-18: Highlight.io Launch Week #3. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-3) [Go to launch page ↗︎](https://www.highlight.io/launch/week-3)
 - 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 - 2023 / 11 / 13-17: Sentry Launch Week. [Go to launch page ↗︎](https://sentry.io/events/launch-week/)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
