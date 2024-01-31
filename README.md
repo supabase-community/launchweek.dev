@@ -6,7 +6,7 @@
 
 - 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
-- 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217)
+- 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217) [Go to launch page ↗︎](https://www.highlight.io/launch/week-4)
 
 ## Intro
 
@@ -45,7 +45,7 @@ For best practices, read this:
 
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
 - 2024 / 01 / 29-02: Loops Launch Week.
-- 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217)
+- 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217) [Go to launch page ↗︎](https://www.highlight.io/launch/week-4)
 - 2024 / 01 / 23-29: Wasp Launch Week #5. [Read the recap ↗︎](https://wasp-lang.dev/blog/2024/01/23/wasp-launch-week-five)
 - 2024 / 01 / 22-25: Inngest Launch Week. [Teaser ↗︎](https://twitter.com/inngest/status/1746942045820719172) [Go to launch page ↗︎](https://www.inngest.com/launch-week)
 - 2024 / 01 / 15-19: Resend Launch Week #2. [Teaser ↗︎](https://x.com/resend/status/1744374127887040933?s=20) [Read the recap ↗︎](https://x.com/zenorocha/status/1749461869948186975?s=20) [Go to launch page ↗︎](https://resend.com/forward)
