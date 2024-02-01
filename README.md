@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 02 / 04-08: MilkStraw AI Launch Week. [Teaser ↗︎](https://www.linkedin.com/posts/milkstraw-ai_announcing-milkstraw-ai-slash-a-special-activity-7158864553928245248-B8bX) [Go to launch page ↗︎](https://www.milkstraw.ai/slash)
 - 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217) [Go to launch page ↗︎](https://www.highlight.io/launch/week-4)
@@ -41,8 +42,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 8
+> Total count: 9
 
+- 2024 / 02 / 04-08: MilkStraw AI Launch Week. [Teaser ↗︎](https://www.linkedin.com/posts/milkstraw-ai_announcing-milkstraw-ai-slash-a-special-activity-7158864553928245248-B8bX) [Go to launch page ↗︎](https://www.milkstraw.ai/slash)
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
 - 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217) [Go to launch page ↗︎](https://www.highlight.io/launch/week-4)
