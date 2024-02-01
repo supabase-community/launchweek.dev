@@ -43,7 +43,7 @@ For best practices, read this:
 
 > Total count: 8
 
-- 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
+- 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958) [Read the announcement ↗︎](https://zilliz.com/blog/Zilliz-Jan-24-launch-Milvus-2-3-RBAC-Databricks-Connector)
 - 2024 / 01 / 29-02: Loops Launch Week.
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217) [Go to launch page ↗︎](https://www.highlight.io/launch/week-4)
 - 2024 / 01 / 23-29: Wasp Launch Week #5. [Read the recap ↗︎](https://wasp-lang.dev/blog/2024/01/23/wasp-launch-week-five)
