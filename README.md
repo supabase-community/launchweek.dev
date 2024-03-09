@@ -4,9 +4,9 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 03 / 18-22: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
 - 2024 / 03 / 11-15: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
 - 2024 / 03 / 11-15: Stacktape Launch Week. [Teaser ↗︎](https://twitter.com/stacktape/status/1763519425670521286)
-- 2024 / 03 / 11-15: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
 
 ## Intro
 
@@ -41,11 +41,11 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 13
+> Total count: 14
 
+- 2024 / 03 / 18-22: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
 - 2024 / 03 / 11-15: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
 - 2024 / 03 / 11-15: Stacktape Launch Week. [Teaser ↗︎](https://x.com/stacktape/status/1763519425670521286)
-- 2024 / 03 / 11-15: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
 - 2024 / 02 / 26-01: Appwrite Launch Week. [Teaser ↗︎](https://x.com/appwrite/status/1759953507782648054) [Read the announcement ↗︎](https://appwrite.io/blog/post/announcing-init) [Read the recap ↗︎](https://appwrite.io/blog/post/a-recap-of-init)
 - 2024 / 02 / 26-01: SigNoz Launch Week. [Read the announcement ↗︎](https://signoz.io/newsroom/launch-week-1/)
 - 2024 / 02 / 04-08: MilkStraw AI Launch Week. [Teaser ↗︎](https://www.linkedin.com/posts/milkstraw-ai_announcing-milkstraw-ai-slash-a-special-activity-7158864553928245248-B8bX) [Go to launch page ↗︎](https://milkstraw.ai/slash)
