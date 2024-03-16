@@ -41,12 +41,13 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 14
+> Total count: 15
 
 - 2024 / 03 / 18-22: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
 - 2024 / 03 / 18-22: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
 - 2024 / 03 / 11-15: Stacktape Launch Week. [Teaser ↗︎](https://x.com/stacktape/status/1763519425670521286)
 - 2024 / 02 / 26-01: Appwrite Launch Week. [Teaser ↗︎](https://x.com/appwrite/status/1759953507782648054) [Read the announcement ↗︎](https://appwrite.io/blog/post/announcing-init) [Read the recap ↗︎](https://appwrite.io/blog/post/a-recap-of-init)
+- 2024 / 02 / 26-01: Documenso Launch Week #2. [Teaser ↗︎](https://x.com/documenso/status/1762080473092706461) [Read the thread ↗︎](https://x.com/documenso/status/1763649799323332932)
 - 2024 / 02 / 26-01: SigNoz Launch Week. [Read the announcement ↗︎](https://signoz.io/newsroom/launch-week-1/)
 - 2024 / 02 / 04-08: MilkStraw AI Launch Week. [Teaser ↗︎](https://www.linkedin.com/posts/milkstraw-ai_announcing-milkstraw-ai-slash-a-special-activity-7158864553928245248-B8bX) [Go to launch page ↗︎](https://milkstraw.ai/slash)
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
@@ -79,7 +80,7 @@ For best practices, read this:
 - 2023 / 10 / 06-13: Dagster Launch Week. [Read the recap ↗︎](https://dagster.io/events/dagster-launch-week-oct-2023)
 - 2023 / 10 / 02-06: Mux Launch Week. [Read the thread ↗︎](https://x.com/MuxHQ/status/1708940798891299061)
 - 2023 / 09 / 25-29: Zuplo Launch Week. [Read the thread ↗︎](https://x.com/zuplo/status/1706318614788256088)
-- 2023 / 09 / 25-29: Documenso Launch Week. [Teaser ↗︎](https://x.com/documenso/status/1705175181545849001)
+- 2023 / 09 / 25-29: Documenso Launch Week #1. [Teaser ↗︎](https://x.com/documenso/status/1705175181545849001)
 - 2023 / 09 / 25-29: Mintlify Launch Week #1. [Read the announcement ↗︎](https://x.com/mintlify/status/1706326969472962641) [Read the recap ↗︎](https://mintlify.com/blog/launch-week-wrapup)
 - 2023 / 09 / 25-29: Railway Launch Week. [Teaser ↗︎](https://x.com/Railway/status/1704959789716119858?s=20) [Go to launch page ↗︎](https://railway.app/launch-week-01)
 - 2023 / 09 / 25-29: Turso Launch Week. [Read the announcement ↗︎](https://x.com/tursodatabase/status/1701687743842062622) [Read the recap ↗︎](https://blog.turso.tech/turso-launch-week-accelerates-growth-nets-1-5k-new-users-in-7-days-2829ed781dc2)
