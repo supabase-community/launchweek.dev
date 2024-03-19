@@ -7,8 +7,8 @@
 - 2024 / 03 / 18-23: WorkOS Launch Week. [Go to launch page ↗︎](https://workos.com/launch-week/)
 - 2024 / 03 / 18-22: Formbricks Launch Week. [Teaser ↗︎](https://x.com/formbricks/status/1769665214851481802)
 - 2024 / 03 / 18-22: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
+- 2024 / 03 / 18-22: Loops Launch Week #2.
 - 2024 / 03 / 18-22: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
-- 2024 / 03 / 11-16: Stacktape Launch Week. [Teaser ↗︎](https://twitter.com/stacktape/status/1763519425670521286)
 
 ## Intro
 
@@ -43,11 +43,12 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 17
+> Total count: 19
 
 - 2024 / 03 / 18-23: WorkOS Launch Week. [Go to launch page ↗︎](https://workos.com/launch-week/)
 - 2024 / 03 / 18-22: Formbricks Launch Week. [Teaser ↗︎](https://x.com/formbricks/status/1769665214851481802)
 - 2024 / 03 / 18-22: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
+- 2024 / 03 / 18-22: Loops Launch Week #2.
 - 2024 / 03 / 18-22: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
 - 2024 / 03 / 11-16: Stacktape Launch Week. [Teaser ↗︎](https://x.com/stacktape/status/1763519425670521286)
 - 2024 / 03 / 11-15: Prisma Launch Week. [Teaser ↗︎](https://x.com/prisma/status/1765801500368945223)
@@ -56,7 +57,7 @@ For best practices, read this:
 - 2024 / 02 / 26-01: SigNoz Launch Week. [Read the announcement ↗︎](https://signoz.io/newsroom/launch-week-1/)
 - 2024 / 02 / 04-08: MilkStraw AI Launch Week. [Teaser ↗︎](https://www.linkedin.com/posts/milkstraw-ai_announcing-milkstraw-ai-slash-a-special-activity-7158864553928245248-B8bX) [Go to launch page ↗︎](https://milkstraw.ai/slash)
 - 2024 / 01 / 30-08: Zilliz Cloud Launch Week. [Teaser ↗︎](https://twitter.com/zilliz_universe/status/1750552090458693958)
-- 2024 / 01 / 29-02: Loops Launch Week.
+- 2024 / 01 / 29-02: Loops Launch Week #1.
 - 2024 / 01 / 29-02: Highlight.io Launch Week #4. [Teaser ↗︎](https://x.com/highlightio/status/1750922104772682217) [Go to launch page ↗︎](https://www.highlight.io/launch/week-4)
 - 2024 / 01 / 23-29: Wasp Launch Week #5. [Read the recap ↗︎](https://wasp-lang.dev/blog/2024/01/23/wasp-launch-week-five)
 - 2024 / 01 / 22-25: Inngest Launch Week. [Teaser ↗︎](https://twitter.com/inngest/status/1746942045820719172) [Go to launch page ↗︎](https://www.inngest.com/launch-week)
