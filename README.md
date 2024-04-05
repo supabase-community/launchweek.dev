@@ -4,7 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-
+- 2024 / 04 / 15-19: Supabase Launch Week 11. [Teaser ↗︎](https://x.com/supabase/status/1775881233907749233) [Go to launch page ↗︎](https://supabase.com/special-announcement)
 
 ## Intro
 
@@ -41,6 +41,7 @@ For best practices, read this:
 
 > Total count: 19
 
+- 2024 / 04 / 15-19: Supabase Launch Week 11. [Teaser ↗︎](https://x.com/supabase/status/1775881233907749233) [Go to launch page ↗︎](https://supabase.com/special-announcement)
 - 2024 / 03 / 18-23: WorkOS Launch Week. [Go to launch page ↗︎](https://workos.com/launch-week/)
 - 2024 / 03 / 18-22: Formbricks Launch Week. [Teaser ↗︎](https://x.com/formbricks/status/1769665214851481802)
 - 2024 / 03 / 18-22: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
@@ -67,7 +68,7 @@ For best practices, read this:
 
 - 2023 / 12 / 11-15: Acreom Launch Week. [Teaser ↗︎](https://x.com/acreom/status/1714641168120582429) [Go to launch page ↗︎](https://acreom.com/dev-week)
 - 2023 / 12 / 11-15: Grafbase Launch Week #2. [Teaser ↗︎](https://twitter.com/grafbase/status/1730144897351483602)
-- 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week)
+- 2023 / 12 / 11-15: Supabase Launch Week X. [Teaser ↗︎](https://x.com/supabase/status/1721597859559010811) [Go to launch page ↗︎](https://supabase.com/launch-week/x)
 - 2023 / 12 / 4-8: Papermark Launch Week. [Teaser ↗︎](https://x.com/papermarkio/status/1727354363285496153) [Go to launch page ↗︎](https://www.papermark.io/launch-week)
 - 2023 / 11 / 21-25: Fastgen Launch Week. [Read the announcement ↗︎](https://x.com/FastgenHQ/status/1726753060867731468)
 - 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
