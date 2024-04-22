@@ -41,7 +41,7 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 23
+> Total count: 24
 
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
 - 2024 / 04 / 22-26: Chat Thing Launch Week. [Teaser ↗︎](https://twitter.com/chatthingai/status/1780156198060228932) [Go to launch page ↗︎](https://chatthing.ai/launch-week/power-ups)
@@ -52,6 +52,7 @@ For best practices, read this:
 - 2024 / 03 / 18-22: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
 - 2024 / 03 / 18-22: Loops Launch Week #2.
 - 2024 / 03 / 18-22: Turso Launch Week. [Teaser ↗︎](https://x.com/tursodatabase/status/1759663676204687761)
+- 2024 / 03 / 18-22: Sentry Launch Week #2. [Teaser ↗︎](https://x.com/getsentry/status/1768785603385340295)
 - 2024 / 03 / 11-16: Stacktape Launch Week. [Teaser ↗︎](https://x.com/stacktape/status/1763519425670521286)
 - 2024 / 03 / 11-15: Prisma Launch Week. [Teaser ↗︎](https://x.com/prisma/status/1765801500368945223)
 - 2024 / 02 / 26-01: Appwrite Launch Week. [Teaser ↗︎](https://x.com/appwrite/status/1759953507782648054) [Read the announcement ↗︎](https://appwrite.io/blog/post/announcing-init) [Read the recap ↗︎](https://appwrite.io/blog/post/a-recap-of-init)
@@ -79,7 +80,7 @@ For best practices, read this:
 - 2023 / 11 / 20-24: CodeSandbox Launch Week. [Read the announcement ↗︎](https://codesandbox.io/blog/codesandbox-launch-week)
 - 2023 / 11 / 16-18: Highlight.io Launch Week #3. [Read the announcements ↗︎](https://www.highlight.io/blog/tag/launch-week-3) [Go to launch page ↗︎](https://www.highlight.io/launch/week-3)
 - 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
-- 2023 / 11 / 13-17: Sentry Launch Week. [Go to launch page ↗︎](https://sentry.io/events/launch-week/)
+- 2023 / 11 / 13-17: Sentry Launch Week #1. [Teaser ↗︎](https://x.com/getsentry/status/1721662133727789565)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
 - 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755) [Go to launch page ↗︎](http://outerbase.com/launch-week/)
 - 2023 / 10 / 17-20: Depot Launch Week #2. [Teaser ↗︎](https://x.com/kylegalbraith/status/1701595820272042371)
