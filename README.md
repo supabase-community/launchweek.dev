@@ -41,7 +41,7 @@ For best practices, read this:
 
 > Total count: 20
 
-- 2024 / 04 / 15-19: Supabase Launch Week #11. [Teaser ↗︎](https://x.com/supabase/status/1775881233907749233) [Go to launch page ↗︎](https://supabase.com/special-announcement)
+- 2024 / 04 / 15-19: Supabase Launch Week #11. [Teaser ↗︎](https://x.com/supabase/status/1775881233907749233) [Read the recap ↗︎](https://supabase.com/blog/ga-week-summary) [Go to launch page ↗︎](https://supabase.com/special-announcement)
 - 2024 / 03 / 18-23: WorkOS Launch Week. [Go to launch page ↗︎](https://workos.com/launch-week/)
 - 2024 / 03 / 18-22: Formbricks Launch Week. [Teaser ↗︎](https://x.com/formbricks/status/1769665214851481802)
 - 2024 / 03 / 18-22: Karrio Launch Week. [Read the announcement ↗︎](https://karrio.io/launch-week-x)
