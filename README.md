@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
 - 2024 / 04 / 22-26: Chat Thing Launch Week. [Teaser ↗︎](https://twitter.com/chatthingai/status/1780156198060228932) [Go to launch page ↗︎](https://chatthing.ai/launch-week/power-ups)
 - 2024 / 04 / 22-26: Langfuse Launch Week. [Teaser ↗︎](https://twitter.com/langfuse/status/1781324385774674407)
@@ -41,8 +42,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 24
+> Total count: 25
 
+- 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
 - 2024 / 04 / 22-26: Chat Thing Launch Week. [Teaser ↗︎](https://twitter.com/chatthingai/status/1780156198060228932) [Go to launch page ↗︎](https://chatthing.ai/launch-week/power-ups)
 - 2024 / 04 / 22-26: Langfuse Launch Week. [Teaser ↗︎](https://twitter.com/langfuse/status/1781324385774674407)
