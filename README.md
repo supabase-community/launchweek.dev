@@ -6,6 +6,7 @@
 
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
+- 2024 / 04 / 29-02: Outerbase Launch Week #2. [Teaser ↗︎](https://x.com/outerbase/status/1783557756093370373)
 
 ## Intro
 
@@ -40,10 +41,11 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 25
+> Total count: 26
 
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
+- 2024 / 04 / 29-02: Outerbase Launch Week #2. [Teaser ↗︎](https://x.com/outerbase/status/1783557756093370373)
 - 2024 / 04 / 22-26: Chat Thing Launch Week. [Teaser ↗︎](https://twitter.com/chatthingai/status/1780156198060228932) [Go to launch page ↗︎](https://chatthing.ai/launch-week/power-ups)
 - 2024 / 04 / 22-26: Langfuse Launch Week. [Teaser ↗︎](https://twitter.com/langfuse/status/1781324385774674407) [Read the recap ↗︎](https://twitter.com/langfuse/status/1784958398796099685)
 - 2024 / 04 / 15-19: Supabase Launch Week #11. [Teaser ↗︎](https://x.com/supabase/status/1775881233907749233) [Read the recap ↗︎](https://supabase.com/blog/ga-week-summary) [Go to launch page ↗︎](https://supabase.com/special-announcement)
@@ -82,7 +84,7 @@ For best practices, read this:
 - 2023 / 11 / 15-21: AWS Amplify Launch Week. [Read the announcement ↗︎](https://aws.amazon.com/blogs/mobile/join-us-for-a-week-of-aws-amplify-launches/)
 - 2023 / 11 / 13-17: Sentry Launch Week #1. [Teaser ↗︎](https://x.com/getsentry/status/1721662133727789565)
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
-- 2023 / 10 / 30-03: Outerbase Launch Week. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755) [Go to launch page ↗︎](http://outerbase.com/launch-week/)
+- 2023 / 10 / 30-03: Outerbase Launch Week #1. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755)
 - 2023 / 10 / 17-20: Depot Launch Week #2. [Teaser ↗︎](https://x.com/kylegalbraith/status/1701595820272042371)
 - 2023 / 10 / 17-20: Sequin Launch Week. 
 - 2023 / 10 / 16-22: Wasp Launch Week #4. [Read the announcement ↗︎](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four)
