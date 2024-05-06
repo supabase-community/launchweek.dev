@@ -6,7 +6,6 @@
 
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
-- 2024 / 04 / 29-02: Outerbase Launch Week #2. [Teaser ↗︎](https://x.com/outerbase/status/1783557756093370373)
 
 ## Intro
 
