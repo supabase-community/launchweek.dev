@@ -4,8 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
-- 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
+- 
 
 ## Intro
 
