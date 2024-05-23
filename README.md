@@ -39,7 +39,7 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 27
+> Total count: 28
 
 - 2024 / 05 / 20-24: OpenSauced Launch Week. [Teaser ↗︎](https://twitter.com/saucedopen/status/1790117385199919469)
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
@@ -57,6 +57,7 @@ For best practices, read this:
 - 2024 / 03 / 11-16: Stacktape Launch Week. [Teaser ↗︎](https://x.com/stacktape/status/1763519425670521286)
 - 2024 / 03 / 11-15: Prisma Launch Week. [Teaser ↗︎](https://x.com/prisma/status/1765801500368945223)
 - 2024 / 02 / 26-01: Appwrite Launch Week. [Teaser ↗︎](https://x.com/appwrite/status/1759953507782648054) [Read the announcement ↗︎](https://appwrite.io/blog/post/announcing-init) [Read the recap ↗︎](https://appwrite.io/blog/post/a-recap-of-init)
+- 2024 / 02 / 26-01: Defer Launch Week. [Teaser ↗︎](https://x.com/defer_run/status/1762129171226951988) [Read the recap ↗︎](https://www.defer.run/blog/build-week-1-wrap-up)
 - 2024 / 02 / 26-01: Documenso Launch Week #2. [Teaser ↗︎](https://x.com/documenso/status/1762080473092706461) [Read the thread ↗︎](https://x.com/documenso/status/1763649799323332932)
 - 2024 / 02 / 26-01: SigNoz Launch Week. [Read the announcement ↗︎](https://signoz.io/newsroom/launch-week-1/)
 - 2024 / 02 / 04-08: MilkStraw AI Launch Week. [Teaser ↗︎](https://www.linkedin.com/posts/milkstraw-ai_announcing-milkstraw-ai-slash-a-special-activity-7158864553928245248-B8bX) [Go to launch page ↗︎](https://milkstraw.ai/slash)
