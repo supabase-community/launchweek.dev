@@ -4,7 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 2024 / 05 / 20-24: OpenSauced Launch Week. [Teaser ↗︎](https://twitter.com/saucedopen/status/1790117385199919469)
+- 
 
 ## Intro
 
