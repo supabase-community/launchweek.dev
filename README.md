@@ -4,7 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 
+- 2024 / 06 / 17-21: Koyeb Launch Week. [Teaser ↗︎](https://x.com/yann_eu/status/1796555252663243030)
 
 ## Intro
 
