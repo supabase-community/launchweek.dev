@@ -39,8 +39,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 28
+> Total count: 29
 
+- 2024 / 06 / 17-21: Koyeb Launch Week. [Teaser ↗︎](https://x.com/yann_eu/status/1796555252663243030)
 - 2024 / 05 / 20-24: OpenSauced Launch Week. [Teaser ↗︎](https://twitter.com/saucedopen/status/1790117385199919469)
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
