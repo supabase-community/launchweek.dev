@@ -5,6 +5,7 @@
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
 - 2024 / 06 / 17-21: Koyeb Launch Week. [Teaser ↗︎](https://x.com/yann_eu/status/1796555252663243030)
+- 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
 
 ## Intro
 
@@ -39,8 +40,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 29
+> Total count: 30
 
+- 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
 - 2024 / 06 / 17-21: Koyeb Launch Week. [Teaser ↗︎](https://x.com/yann_eu/status/1796555252663243030)
 - 2024 / 05 / 20-24: OpenSauced Launch Week. [Teaser ↗︎](https://twitter.com/saucedopen/status/1790117385199919469)
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
