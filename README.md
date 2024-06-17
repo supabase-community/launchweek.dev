@@ -6,6 +6,7 @@
 
 - 2024 / 06 / 17-21: Koyeb Launch Week. [Teaser ↗︎](https://x.com/yann_eu/status/1796555252663243030)
 - 2024 / 06 / 17-21: Metomic Launch Week. [Go to launch page ↗︎](https://metomic.io/metomic-for-google-ecosystem)
+- 2024 / 06 / 24-29: Mintlify Launch Week #3. [Teaser ↗︎](https://x.com/mintlify/status/1802718003274137710)
 - 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
 
 ## Intro
@@ -41,8 +42,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 30
+> Total count: 32
 
+- 2024 / 06 / 24-29: Mintlify Launch Week #3. [Teaser ↗︎](https://x.com/mintlify/status/1802718003274137710)
 - 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
 - 2024 / 06 / 17-21: Metomic Launch Week. [Go to launch page ↗︎](https://metomic.io/metomic-for-google-ecosystem)
 - 2024 / 06 / 17-21: Koyeb Launch Week. [Teaser ↗︎](https://x.com/yann_eu/status/1796555252663243030)
