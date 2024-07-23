@@ -39,8 +39,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 33
+> Total count: 34
 
+- 2024 / 07 / 17-22: Wasp Launch Week #6.
 - 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
 - 2024 / 06 / 24-28: AICamp Launch Week.
 - 2024 / 06 / 24-28: Mintlify Launch Week #3. [Teaser ↗︎](https://x.com/mintlify/status/1802718003274137710) [Read the recap ↗︎](https://x.com/mintlify/status/1810826290502717480)
