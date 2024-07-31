@@ -4,7 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 
+- 2024 / 08 / 12-16: Supabase Launch Week 12. [Go to launch page ↗︎](https://supabase.com/launch-week)
 
 ## Intro
 
@@ -39,8 +39,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 34
+> Total count: 35
 
+- 2024 / 08 / 12-16: Supabase Launch Week 12. [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2024 / 07 / 17-22: Wasp Launch Week #6.
 - 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
 - 2024 / 06 / 24-28: AICamp Launch Week.
