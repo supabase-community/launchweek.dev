@@ -6,6 +6,7 @@
 
 - 2024 / 08 / 05-09: Inkeep Launch Week. [Go to launch page ↗︎](https://inkeep.com/launch-week)
 - 2024 / 08 / 12-16: Supabase Launch Week 12. [Go to launch page ↗︎](https://supabase.com/launch-week)
+- 2024 / 08 / 19-23: Resend Launch Week 3. [Go to launch page ↗︎](https://resend.com/forward)
 
 ## Intro
 
@@ -40,8 +41,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 36
+> Total count: 37
 
+- 2024 / 08 / 19-23: Resend Launch Week 3. [Go to launch page ↗︎](https://resend.com/forward)
 - 2024 / 08 / 12-16: Supabase Launch Week 12. [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2024 / 08 / 05-09: Inkeep Launch Week. [Go to launch page ↗︎](https://inkeep.com/launch-week)
 - 2024 / 07 / 17-22: Wasp Launch Week #6.
