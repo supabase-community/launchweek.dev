@@ -4,9 +4,8 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 2024 / 08 / 05-09: Inkeep Launch Week. [Go to launch page ↗︎](https://inkeep.com/launch-week)
-- 2024 / 08 / 12-16: Supabase Launch Week 12. [Go to launch page ↗︎](https://supabase.com/launch-week)
-- 2024 / 08 / 19-23: Resend Launch Week 3. [Go to launch page ↗︎](https://resend.com/forward)
+- 2024 / 08 / 12-16: Supabase Launch Week #12. [Go to launch page ↗︎](https://supabase.com/launch-week)
+- 2024 / 08 / 19-23: Resend Launch Week #3. [Teaser ↗︎](https://x.com/resend/status/1820848406438518810)[Go to launch page ↗︎](https://resend.com/forward)
 
 ## Intro
 
@@ -43,8 +42,8 @@ For best practices, read this:
 
 > Total count: 37
 
-- 2024 / 08 / 19-23: Resend Launch Week 3. [Go to launch page ↗︎](https://resend.com/forward)
-- 2024 / 08 / 12-16: Supabase Launch Week 12. [Go to launch page ↗︎](https://supabase.com/launch-week)
+- 2024 / 08 / 19-23: Resend Launch Week #3. [Teaser ↗︎](https://x.com/resend/status/1820848406438518810)[Go to launch page ↗︎](https://resend.com/forward)
+- 2024 / 08 / 12-16: Supabase Launch Week #12. [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2024 / 08 / 05-09: Inkeep Launch Week. [Go to launch page ↗︎](https://inkeep.com/launch-week)
 - 2024 / 07 / 17-22: Wasp Launch Week #6.
 - 2024 / 06 / 24-29: Unkey Launch Week. [Go to launch page ↗︎](https://www.unkey.com/accelerate)
