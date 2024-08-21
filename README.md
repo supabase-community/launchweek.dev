@@ -40,7 +40,7 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 38
+> Total count: 39
 
 - 2024 / 08 / 26-30: Firecrawl Launch Week #1. [Teaser ↗︎](https://x.com/firecrawl_dev/status/1826358219218059519)
 - 2024 / 08 / 19-23: Resend Launch Week #3. [Teaser ↗︎](https://x.com/resend/status/1820848406438518810)[Go to launch page ↗︎](https://resend.com/forward)
