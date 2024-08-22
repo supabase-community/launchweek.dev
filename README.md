@@ -4,8 +4,8 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 2024 / 08 / 12-16: Supabase Launch Week #12. [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2024 / 08 / 19-23: Resend Launch Week #3. [Teaser ↗︎](https://x.com/resend/status/1820848406438518810)[Go to launch page ↗︎](https://resend.com/forward)
+- 2024 / 08 / 26-30: Firecrawl Launch Week #1. [Teaser ↗︎](https://x.com/firecrawl_dev/status/1826358219218059519)
 
 ## Intro
 
@@ -40,8 +40,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 37
+> Total count: 39
 
+- 2024 / 08 / 26-30: Firecrawl Launch Week #1. [Teaser ↗︎](https://x.com/firecrawl_dev/status/1826358219218059519)
 - 2024 / 08 / 19-23: Resend Launch Week #3. [Teaser ↗︎](https://x.com/resend/status/1820848406438518810)[Go to launch page ↗︎](https://resend.com/forward)
 - 2024 / 08 / 12-16: Supabase Launch Week #12. [Go to launch page ↗︎](https://supabase.com/launch-week)
 - 2024 / 08 / 05-09: Inkeep Launch Week. [Go to launch page ↗︎](https://inkeep.com/launch-week)
@@ -96,7 +97,7 @@ For best practices, read this:
 - 2023 / 11 / 06-10: Dopt Launch Week. [Read the announcement ↗︎](https://x.com/doptcom/status/1716866300730093736) [Read the recap ↗︎](https://blog.dopt.com/nov-2023-launch-week)
 - 2023 / 10 / 30-03: Outerbase Launch Week #1. [Read the announcement ↗︎](https://x.com/outerbase/status/1719053301407203755)
 - 2023 / 10 / 17-20: Depot Launch Week #2. [Teaser ↗︎](https://x.com/kylegalbraith/status/1701595820272042371)
-- 2023 / 10 / 17-20: Sequin Launch Week. 
+- 2023 / 10 / 17-20: Sequin Launch Week.
 - 2023 / 10 / 16-22: Wasp Launch Week #4. [Read the announcement ↗︎](https://wasp-lang.dev/blog/2023/10/13/wasp-launch-week-four)
 - 2023 / 10 / 06-13: Dagster Launch Week. [Read the recap ↗︎](https://dagster.io/events/dagster-launch-week-oct-2023)
 - 2023 / 10 / 02-06: Mux Launch Week. [Read the thread ↗︎](https://x.com/MuxHQ/status/1708940798891299061)
