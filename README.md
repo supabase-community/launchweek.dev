@@ -4,7 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
--
+- 2024 / 09 / 09-13: Daytona Create Launch Week. [Teaser ↗︎](https://x.com/daytonaio/status/1830549846174154835)
 
 ## Intro
 
