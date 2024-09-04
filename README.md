@@ -5,6 +5,7 @@
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
 - 2024 / 09 / 09-13: Daytona Create Launch Week. [Teaser ↗︎](https://x.com/daytonaio/status/1830549846174154835)
+- 2024 / 09 / 09-13: Impler Import Launch Week. [Teaser ↗︎](https://x.com/implerio/status/1831314351703106041)
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
 
 ## Intro
@@ -43,6 +44,7 @@ For best practices, read this:
 > Total count: 42
 
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
+- 2024 / 09 / 09-13: Impler Import Launch Week. [Teaser ↗︎](https://x.com/implerio/status/1831314351703106041)
 - 2024 / 09 / 09-13: Daytona Create Launch Week. [Teaser ↗︎](https://x.com/daytonaio/status/1830549846174154835)
 - 2024 / 08 / 26-30: Firecrawl Launch Week #1. [Teaser ↗︎](https://x.com/firecrawl_dev/status/1826358219218059519)
 - 2024 / 08 / 22-28: WarpBuild Launch Week.
