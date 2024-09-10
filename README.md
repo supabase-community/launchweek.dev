@@ -42,7 +42,7 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 44
+> Total count: 45
 
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
 - 2024 / 09 / 09-13: Glasskube Launch Week. [Teaser ↗︎](https://x.com/glasskube/status/1832136241472794708) [Read the announcement ↗︎](https://glasskube.dev/blog/launch-week-number-2/)
@@ -63,6 +63,7 @@ For best practices, read this:
 - 2024 / 05 / 20-24: OpenSauced Launch Week. [Teaser ↗︎](https://twitter.com/saucedopen/status/1790117385199919469)
 - 2024 / 05 / 06-10: AWS Amplify Launch Week #2. [Teaser ↗︎](https://x.com/AWSAmplify/status/1783875739290419552)
 - 2024 / 05 / 06-10: Encore Launch Week. [Teaser ↗︎](https://twitter.com/encoredotdev/status/1782323908957409649)
+- 2024 / 04 / 29-03: Highlight.io Launch Week #5. [Go to launch page ↗︎](https://www.highlight.io/blog/tag/launch-week-5)
 - 2024 / 04 / 29-02: Outerbase Launch Week #2. [Teaser ↗︎](https://x.com/outerbase/status/1783557756093370373)
 - 2024 / 04 / 22-26: Chat Thing Launch Week. [Teaser ↗︎](https://twitter.com/chatthingai/status/1780156198060228932) [Go to launch page ↗︎](https://chatthing.ai/launch-week/power-ups)
 - 2024 / 04 / 22-26: Langfuse Launch Week. [Teaser ↗︎](https://twitter.com/langfuse/status/1781324385774674407) [Read the recap ↗︎](https://twitter.com/langfuse/status/1784958398796099685)
