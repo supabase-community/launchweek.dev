@@ -47,7 +47,7 @@ For best practices, read this:
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
 - 2024 / 09 / 09-13: Glasskube Launch Week. [Teaser ↗︎](https://x.com/glasskube/status/1832136241472794708) [Read the announcement ↗︎](https://glasskube.dev/blog/launch-week-number-2/)
 - 2024 / 09 / 09-13: Impler Import Launch Week. [Teaser ↗︎](https://x.com/implerio/status/1831314351703106041)
-- 2024 / 09 / 09-13: Daytona Create Launch Week. [Teaser ↗︎](https://x.com/daytonaio/status/1830549846174154835)
+- 2024 / 09 / 09-13: Daytona Create Launch Week. [Teaser ↗︎](https://x.com/daytonaio/status/1830549846174154835) [Read the announcement ↗︎](https://www.daytona.io/dotfiles/enterprise-admins-gain-control-over-ide-selection) [Go to launch page ↗︎](https://create.daytona.io/)
 - 2024 / 09 / 03-06: Outerbase Launch Week #3. [Teaser ↗︎](https://x.com/outerbase/status/1829181464468136119)
 - 2024 / 08 / 26-30: Firecrawl Launch Week #1. [Teaser ↗︎](https://x.com/firecrawl_dev/status/1826358219218059519)
 - 2024 / 08 / 22-28: WarpBuild Launch Week.
