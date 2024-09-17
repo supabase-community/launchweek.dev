@@ -9,6 +9,7 @@
 - 2024 / 09 / 09-13: Impler Import Launch Week. [Teaser ↗︎](https://x.com/implerio/status/1831314351703106041)
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
 - 2024 / 09 / 16-20: SigNoz Launch Week. [Teaser ↗︎](https://x.com/SignozHQ/status/1833100107136303393)
+- 2024 / 09 / 23-30: Inngest Launch Week #2. [Teaser ↗︎](https://x.com/inngest/status/1835746864739844548)
 
 ## Intro
 
@@ -43,8 +44,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 46
+> Total count: 47
 
+- 2024 / 09 / 23-30: Inngest Launch Week #2. [Teaser ↗︎](https://x.com/inngest/status/1835746864739844548)
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
 - 2024 / 09 / 16-20: SigNoz Launch Week. [Teaser ↗︎](https://x.com/SignozHQ/status/1833100107136303393)
 - 2024 / 09 / 09-13: Glasskube Launch Week. [Teaser ↗︎](https://x.com/glasskube/status/1832136241472794708) [Read the announcement ↗︎](https://glasskube.dev/blog/launch-week-number-2/)
