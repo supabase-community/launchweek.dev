@@ -5,6 +5,8 @@
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
 - 2024 / 10 / 10-17: ApertureDB Cloud Launch Week. [Read the announcement ↗︎](https://www.linkedin.com/feed/update/urn:li:activity:7247347077574189058)
+- 2024 / 10 / 07-11: Theneo Launch Week.
+- 2024 / 10 / 07-11: Wasp Launch Week #7. [Teaser ↗︎](https://x.com/WaspLang/status/1842220208775426401)
 
 ## Intro
 
@@ -39,9 +41,11 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 48
+> Total count: 50
 
 - 2024 / 10 / 10-17: ApertureDB Cloud Launch Week. [Read the announcement ↗︎](https://www.linkedin.com/feed/update/urn:li:activity:7247347077574189058)
+- 2024 / 10 / 07-11: Theneo Launch Week.
+- 2024 / 10 / 07-11: Wasp Launch Week #7. [Teaser ↗︎](https://x.com/WaspLang/status/1842220208775426401)
 - 2024 / 09 / 23-30: Inngest Launch Week #2. [Teaser ↗︎](https://x.com/inngest/status/1835746864739844548)
 - 2024 / 09 / 16-20: Koyeb Launch Week #2. [Teaser ↗︎](https://x.com/gokoyeb/status/1830951168878444783)
 - 2024 / 09 / 16-20: SigNoz Launch Week. [Teaser ↗︎](https://x.com/SignozHQ/status/1833100107136303393)
