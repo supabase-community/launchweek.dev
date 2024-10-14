@@ -4,6 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
+- 2024 / 10 / 14-18: Daytona Create Launch Week #2. [Teaser ↗︎](https://x.com/daytonaio/status/1844415887098745342) [Go to launch page ↗︎](https://create.daytona.io/)
 - 2024 / 10 / 10-17: ApertureDB Cloud Launch Week. [Read the announcement ↗︎](https://www.linkedin.com/feed/update/urn:li:activity:7247347077574189058)
 - 2024 / 10 / 07-11: Theneo Launch Week.
 - 2024 / 10 / 07-11: Wasp Launch Week #7. [Teaser ↗︎](https://x.com/WaspLang/status/1842220208775426401)
@@ -41,8 +42,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 50
+> Total count: 51
 
+- 2024 / 10 / 14-18: Daytona Create Launch Week #2. [Teaser ↗︎](https://x.com/daytonaio/status/1844415887098745342) [Go to launch page ↗︎](https://create.daytona.io/)
 - 2024 / 10 / 10-17: ApertureDB Cloud Launch Week. [Read the announcement ↗︎](https://www.linkedin.com/feed/update/urn:li:activity:7247347077574189058)
 - 2024 / 10 / 07-11: Theneo Launch Week.
 - 2024 / 10 / 07-11: Wasp Launch Week #7. [Teaser ↗︎](https://x.com/WaspLang/status/1842220208775426401)
