@@ -45,7 +45,7 @@ For best practices, read this:
 
 - 2024 / 10 / 28-01: Permit Launch Week [Teaser ↗︎](https://x.com/permit_io/status/1847213978352545944) [Go to launch page ↗︎](https://launchweek.permit.io)
 - 2024 / 10 / 14-18: Daytona Create Launch Week #2. [Teaser ↗︎](https://x.com/daytonaio/status/1844415887098745342) [Go to launch page ↗︎](https://create.daytona.io/)
-- 2024 / 10 / 10-17: ApertureDB Cloud Launch Week. [Read the announcement ↗︎](https://venturebeat.com/data-infrastructure/aperturedata-offers-10x-speed-boost-to-enterprises-using-multimodal-data/)[ApertureDB Cloud Launch Contest, due Oct 31, 2024 ↗︎](https://lu.ma/jrvh73zg?tk=h6BWzi)
+- 2024 / 10 / 10-17: ApertureDB Cloud Launch Week. [Read the announcement ↗︎](https://venturebeat.com/data-infrastructure/aperturedata-offers-10x-speed-boost-to-enterprises-using-multimodal-data/) [ApertureDB Cloud Launch Contest, due Oct 31, 2024 ↗︎](https://lu.ma/jrvh73zg?tk=h6BWzi)
 - 2024 / 10 / 07-11: Theneo Launch Week.
 - 2024 / 10 / 07-11: Wasp Launch Week #7. [Teaser ↗︎](https://x.com/WaspLang/status/1842220208775426401)
 - 2024 / 09 / 23-30: Inngest Launch Week #2. [Teaser ↗︎](https://x.com/inngest/status/1835746864739844548)
