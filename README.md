@@ -4,9 +4,7 @@
 
 > You? [Create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add your upcoming launch week here. Enjoy the fun!
 
-- 2024 / 10 / 28-01: Permit Launch Week [Teaser ↗︎](https://x.com/permit_io/status/1847213978352545944) [Go to launch page ↗︎](https://launchweek.permit.io)
-- 2024 / 10 / 21-25: Flipt Launch Week. [Teaser ↗︎](https://x.com/flipt_io/status/1846989763506852261)
-- 2024 / 10 / 21-25: Turso Launch Week #3. [Teaser ↗︎](https://x.com/tursodatabase/status/1844072254583574707) [Go to launch page ↗︎](https://turso.tech/launch-week)
+- 2024 / 11 / 18-22: WorkOS Launch Week #2. [Teaser ↗︎](https://x.com/WorkOS/status/1856046332407906341) [Go to launch page ↗︎](https://workos.com/launch-week)
 
 ## Intro
 
@@ -41,9 +39,10 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 54
+> Total count: 55
 
-- 2024 / 10 / 28-01: Permit Launch Week [Teaser ↗︎](https://x.com/permit_io/status/1847213978352545944) [Go to launch page ↗︎](https://launchweek.permit.io)
+- 2024 / 11 / 18-22: WorkOS Launch Week #2. [Teaser ↗︎](https://x.com/WorkOS/status/1856046332407906341) [Go to launch page ↗︎](https://workos.com/launch-week)
+- 2024 / 10 / 28-01: Permit Launch Week. [Teaser ↗︎](https://x.com/permit_io/status/1847213978352545944) [Go to launch page ↗︎](https://launchweek.permit.io)
 - 2024 / 10 / 21-25: Flipt Launch Week. [Teaser ↗︎](https://x.com/flipt_io/status/1846989763506852261)
 - 2024 / 10 / 21-25: Turso Launch Week #3. [Teaser ↗︎](https://x.com/tursodatabase/status/1844072254583574707) [Go to launch page ↗︎](https://turso.tech/launch-week)
 - 2024 / 10 / 14-18: Daytona Create Launch Week #2. [Teaser ↗︎](https://x.com/daytonaio/status/1844415887098745342) [Go to launch page ↗︎](https://create.daytona.io/)
