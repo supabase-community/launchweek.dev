@@ -39,7 +39,7 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 55
+> Total count: 56
 
 - 2024 / 11 / 25-29: Trigger.dev launchweek[0]. [Teaser ↗︎](https://x.com/triggerdotdev/status/1856375219092332752) [Go to launch page ↗︎](https://trigger.dev/launchweek/0) 
 - 2024 / 11 / 18-22: WorkOS Launch Week #2. [Teaser ↗︎](https://x.com/WorkOS/status/1856046332407906341) [Go to launch page ↗︎](https://workos.com/launch-week)
