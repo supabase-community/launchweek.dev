@@ -6,6 +6,7 @@
 
 - 2024 / 11 / 18-22: WorkOS Launch Week #2. [Teaser ↗︎](https://x.com/WorkOS/status/1856046332407906341) [Go to launch page ↗︎](https://workos.com/launch-week)
 - 2024 / 11 / 25-29: Trigger.dev Launch Week. [Teaser ↗︎](https://x.com/triggerdotdev/status/1856375219092332752) [Go to launch page ↗︎](https://trigger.dev/launchweek/0)
+- 2024 / 12 / 02-06: Supabase Launch Week #13.
 
 ## Intro
 
@@ -40,8 +41,9 @@ For best practices, read this:
 
 ### 2024
 
-> Total count: 56
+> Total count: 57
 
+- 2024 / 12 / 02-06: Supabase Launch Week #13.
 - 2024 / 11 / 25-29: Trigger.dev Launch Week. [Teaser ↗︎](https://x.com/triggerdotdev/status/1856375219092332752) [Go to launch page ↗︎](https://trigger.dev/launchweek/0) 
 - 2024 / 11 / 18-22: WorkOS Launch Week #2. [Teaser ↗︎](https://x.com/WorkOS/status/1856046332407906341) [Go to launch page ↗︎](https://workos.com/launch-week)
 - 2024 / 10 / 28-01: Permit Launch Week. [Teaser ↗︎](https://x.com/permit_io/status/1847213978352545944) [Go to launch page ↗︎](https://launchweek.permit.io)
