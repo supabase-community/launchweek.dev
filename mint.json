@@ -3,6 +3,11 @@
 
   "name": "launchweek.dev",
 
+  "logo": {
+    "light": "/assets/brand/supabase-logo-icon.svg",
+    "dark": "/assets/brand/supabase-logo-icon.svg"
+  },
+
   "favicon": "/assets/brand/supabase-logo-icon.svg",
 
   "colors": {
@@ -25,27 +30,43 @@
     }
   },
 
+  "sidebar": {
+    "items": "undecorated"
+  },
+
   "navigation": [
-    {
-      "group": "launchweek.dev",
-      "pages": ["README", "CONTRIBUTING"]
-    },
+    { "group": "launchweek.dev", "pages": ["README", "CONTRIBUTING"] },
     {
       "group": "launch weeks",
-      "pages": [
-        "content/lw/2024",
-        "content/lw/2023",
-        "content/lw/2022",
-        "content/lw/2021"
-      ]
+      "pages": ["content/lw/2024", "content/lw/2023", "content/lw/2022", "content/lw/2021"]
     },
-    {
-      "group": "best practices",
-      "pages": ["content/supabase-how-we-launch"]
-    },
+    { "group": "best practices", "pages": ["content/supabase-how-we-launch"] },
     {
       "group": "maintainers",
       "pages": ["content/kiwicopple", "content/fmerian"]
     }
-  ]
+  ],
+
+  "footer": {
+    "socials": { "github": "https://git.new/lw" },
+    "links": [
+      {
+        "title": "launchweek.dev",
+        "links": [
+          { "label": "README.md", "url": "https://git.new/lw" },
+          { "label": "CONTRIBUTING.md", "url": "https://git.new/lw" }
+        ]
+      },
+      {
+        "title": "maintainers",
+        "links": [
+          {
+            "label": "Paul Copplestone",
+            "url": "https://x.com/kiwicopple"
+          },
+          { "label": "Flo Merian", "url": "https://x.com/fmerian" }
+        ]
+      }
+    ]
+  }
 }
