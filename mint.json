@@ -1,91 +1,75 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+
+  "name": "launchweek.dev",
+
   "logo": {
-    "dark": "/logo/dark.svg",
-    "light": "/logo/light.svg"
+    "light": "/assets/brand/supabase-logo-icon.svg",
+    "dark": "/assets/brand/supabase-logo-icon.svg"
   },
-  "favicon": "/favicon.svg",
+
+  "favicon": "/assets/brand/supabase-logo-icon.svg",
+
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
-    "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+    "primary": "#019A55",
+    "light": "#3ECF8E",
+    "dark": "#019A55",
+    "background": {
+      "light": "#FCFCFC",
+      "dark": "#121212"
     }
   },
-  "topbarLinks": [
-    {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+
+  "font": {
+    "headings": {
+      "family": "JetBrains Mono",
+      "weight": 400
+    },
+    "body": {
+      "family": "Inter"
     }
-  ],
-  "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
   },
-  "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
+
+  "sidebar": {
+    "items": "undecorated"
+  },
+
   "navigation": [
+    { "group": "launchweek.dev", "pages": ["README", "CONTRIBUTING"] },
     {
-      "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
+      "group": "launch weeks",
+      "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
     },
+    { "group": "best practices", "pages": ["content/supabase-how-we-launch"] },
     {
-      "group": "Essentials",
-      "pages": [
-        "essentials/markdown",
-        "essentials/code",
-        "essentials/images",
-        "essentials/settings",
-        "essentials/navigation",
-        "essentials/reusable-snippets"
-      ]
-    },
-    {
-      "group": "API Documentation",
-      "pages": [
-        "api-reference/introduction"
-      ]
-    },
-    {
-      "group": "Endpoint Examples",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      "group": "maintainers",
+      "pages": ["content/kiwicopple", "content/fmerian"]
     }
   ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
+
+  "footer": {
+    "socials": { "github": "https://git.new/lw" },
+    "links": [
+      {
+        "title": "launchweek.dev",
+        "links": [
+          { "label": "README.md", "url": "https://git.new/lw" },
+          {
+            "label": "CONTRIBUTING.md",
+            "url": "https://git.new/lw/CONTRIBUTING.md"
+          }
+        ]
+      },
+      {
+        "title": "maintainers",
+        "links": [
+          {
+            "label": "Paul Copplestone",
+            "url": "https://x.com/kiwicopple"
+          },
+          { "label": "Flo Merian", "url": "https://x.com/fmerian" }
+        ]
+      }
+    ]
   }
 }
