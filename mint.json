@@ -1,0 +1,78 @@
+{
+  "$schema": "https://mintlify.com/schema.json",
+
+  "name": "launchweek.dev",
+
+  "logo": {
+    "light": "/assets/brand/supabase-logo-icon.svg",
+    "dark": "/assets/brand/supabase-logo-icon.svg"
+  },
+
+  "favicon": "/assets/brand/supabase-logo-icon.svg",
+
+  "colors": {
+    "primary": "#019A55",
+    "light": "#3ECF8E",
+    "dark": "#019A55",
+    "background": {
+      "light": "#FCFCFC",
+      "dark": "#121212"
+    }
+  },
+
+  "font": {
+    "headings": {
+      "family": "JetBrains Mono",
+      "weight": 400
+    },
+    "body": {
+      "family": "Inter"
+    }
+  },
+
+  "sidebar": {
+    "items": "undecorated"
+  },
+
+  "codeBlock": {
+    "mode": "auto"
+  },
+
+  "navigation": [
+    { "group": "launchweek.dev", "pages": ["README", "CONTRIBUTING"] },
+    {
+      "group": "launch weeks",
+      "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
+    },
+    { "group": "best practices", "pages": ["content/supabase-how-we-launch"] },
+    {
+      "group": "maintainers",
+      "pages": ["content/kiwicopple", "content/fmerian"]
+    }
+  ],
+
+  "footer": {
+    "socials": { "github": "https://git.new/lw" },
+    "links": [
+      {
+        "title": "launchweek.dev",
+        "links": [
+          { "label": "README.md", "url": "https://git.new/lw" },
+          {
+            "label": "CONTRIBUTING.md",
+            "url": "https://git.new/lw/CONTRIBUTING.md"
+          }
+        ]
+      },
+      {
+        "title": "maintainers",
+        "links": [
+          {
+            "label": "Paul Copplestone", "url": "https://x.com/kiwicopple"
+          },
+          { "label": "Flo Merian", "url": "https://x.com/fmerian" }
+        ]
+      }
+    ]
+  }
+}
