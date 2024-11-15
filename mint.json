@@ -4,11 +4,11 @@
   "name": "launchweek.dev",
 
   "logo": {
-    "light": "/assets/brand/supabase-logo-icon.svg",
-    "dark": "/assets/brand/supabase-logo-icon.svg"
+    "light": "/assets/supabase-logo-icon.svg",
+    "dark": "/assets/supabase-logo-icon.svg"
   },
 
-  "favicon": "/assets/brand/supabase-logo-icon.svg",
+  "favicon": "/assets/supabase-logo-icon.svg",
 
   "colors": {
     "primary": "#019A55",
