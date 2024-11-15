@@ -34,6 +34,10 @@
     "items": "undecorated"
   },
 
+  "codeBlock": {
+    "mode": "auto"
+  },
+
   "navigation": [
     { "group": "launchweek.dev", "pages": ["README", "CONTRIBUTING"] },
     {
@@ -64,8 +68,7 @@
         "title": "maintainers",
         "links": [
           {
-            "label": "Paul Copplestone",
-            "url": "https://x.com/kiwicopple"
+            "label": "Paul Copplestone", "url": "https://x.com/kiwicopple"
           },
           { "label": "Flo Merian", "url": "https://x.com/fmerian" }
         ]

@@ -3,13 +3,13 @@ title: README.md
 description: Tracking launch weeks across the industry, for product discovery and inspiration.
 ---
 
-## About
+## about
 
 What's a launch week? It's a week of announcing new features.
 
 **This repository tracks past and upcoming launch weeks across the dev tools space.**
 
-## Objectives
+## objectives
 
 **For developers**
 
@@ -19,17 +19,35 @@ To save the date and discover awesome developer-first products.
 
 To help plan and promote their launch weeks and find inspiration.
 
-## Want to contribute?
+## want to contribute?
 
 Awesome! Feel free to [create an issue](https://github.com/supabase-community/launchweek.dev/issues) or open a [Pull Request (PR)](https://github.com/supabase-community/launchweek.dev/pulls) to add more launch weeks.
 
 <Card title="CONTRIBUTING.md" href="CONTRIBUTING.md">
-  Best practices to contribute to launchweek.dev.
+  Best practices to contribute to launchweek.dev
 </Card>
+
+[launchweek.dev](https://launchweek.dev) is powered by [Mintlify](https://mintlify.com), a Next.js-based platform for documentation sites. Every page is a `.mdx` file, written in Markdown, with built-in UI components.
+
+The live site updates through this GitHub repo:
+
+<Card title="supabase-community/launchweek.dev" href="https://git.new/lw">
+  launchweek.dev on GitHub
+</Card>
+
+To preview local changes, you need to install the [Mintlify CLI](https://www.npmjs.com/package/mintlify). Run this:
+```
+npm i -g mintlify
+```
+
+Then run the following command at the root of your local folder, where the `mint.json` file is:
+```
+mintlify dev
+```
 
 ---
 
-This repo is maintained by:
+This project is maintained by:
 <CardGroup cols={2}>
   <Card title="Paul Copplestone" href="https://x.com/kiwicopple" horizontal>
     CEO, Supabase
@@ -42,5 +60,5 @@ This repo is maintained by:
 For best practices, read this:
 
 <Card title="How we launch at Supabase (by Ant Wilson)" href="https://supabase.com/blog/supabase-how-we-launch">
-  The history and methodology of Supabase Launch Week.
+  The history and methodology of Supabase Launch Week
 </Card>
