@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/57b6560f-37c3-4cd9-b3c8-8037e5a1a5fb">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c193813d-7c02-4488-a24f-b4b4b29fe088">
+  <img alt="launchweek.dev" src="https://github.com/user-attachments/assets/57b6560f-37c3-4cd9-b3c8-8037e5a1a5fb">
+</picture>
+
 # launchweek.dev
 
 ## about
