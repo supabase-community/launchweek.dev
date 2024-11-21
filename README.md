@@ -6,6 +6,21 @@
 
 **This repository tracks past and upcoming launch weeks across the dev tools space.**
 
+## upcoming: mega
+
+**Mega Launch Week** is like Black Friday for developers. One week in the year, devtools agree to launch together.
+
+**The first Mega Launch Week is on December 02, 2024. Watch this repo to get notified.**
+
+Participating companies:
+
+- [Supabase](https://supabase.com)
+- [Trigger.dev](https://trigger.dev/)
+- [OpenInt](https://openint.dev/)
+- [Quivr](https://quivr.com/)
+
+**Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
+
 ## objectives
 
 **For developers**
