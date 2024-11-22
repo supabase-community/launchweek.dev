@@ -26,6 +26,7 @@ Participating companies:
 - [Quivr](https://quivr.com/)
 - [Jamsocket](https://jamsocket.com/)
 - [Magic Patterns](https://magicpatterns.com/)
+- [Outerbase](https://outerbase.com/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
