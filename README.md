@@ -26,6 +26,8 @@ Participating companies:
 - [Quivr](https://quivr.com/)
 - [Jamsocket](https://jamsocket.com/)
 - [Magic Patterns](https://magicpatterns.com/)
+- [Propel](https://www.propeldata.com/)
+- [Outerbase](https://outerbase.com/)
 - [Tempo Labs](https://tempolabs.ai/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
