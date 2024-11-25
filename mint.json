@@ -20,6 +20,10 @@
     }
   },
 
+  "modeToggle": {
+      "default": "dark"  
+  },
+
   "font": {
     "headings": {
       "family": "JetBrains Mono",
