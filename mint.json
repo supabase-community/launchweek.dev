@@ -4,19 +4,19 @@
   "name": "launchweek.dev",
 
   "logo": {
-    "light": "/assets/supabase-community-icon.svg",
-    "dark": "/assets/supabase-community-icon.svg"
+    "light": "/assets/lw-icon-light.svg",
+    "dark": "/assets/lw-icon-dark.svg"
   },
 
-  "favicon": "/assets/supabase-community-icon.svg",
+  "favicon": "/assets/lw-icon-dark.svg",
 
   "colors": {
-    "primary": "#019A55",
-    "light": "#3ECF8E",
-    "dark": "#019A55",
+    "primary": "#8957E5",
+    "light": "#8957E5",
+    "dark": "#8957E5",
     "background": {
-      "light": "#FCFCFC",
-      "dark": "#121212"
+      "light": "#FFFFFF",
+      "dark": "#0D1117"
     }
   },
 
@@ -55,6 +55,10 @@
       "pages": ["content/kiwicopple", "content/fmerian"]
     }
   ],
+
+  "seo": {
+    "indexHiddenPages": true
+  },
 
   "footer": {
     "socials": { "github": "https://git.new/lw" },

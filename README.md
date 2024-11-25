@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/57b6560f-37c3-4cd9-b3c8-8037e5a1a5fb">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c193813d-7c02-4488-a24f-b4b4b29fe088">
-  <img alt="launchweek.dev" src="https://github.com/user-attachments/assets/57b6560f-37c3-4cd9-b3c8-8037e5a1a5fb">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/121dd43d-e6ee-4e08-bf0d-e50324725ae6">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/aa67e2c0-4fa7-4014-a20c-a39ca8a60321">
+  <img alt="launchweek.dev" src="https://github.com/user-attachments/assets/121dd43d-e6ee-4e08-bf0d-e50324725ae6">
 </picture>
 
 # launchweek.dev
@@ -24,6 +24,14 @@ Participating companies:
 - [Trigger.dev](https://trigger.dev/)
 - [OpenInt](https://openint.dev/)
 - [Quivr](https://quivr.com/)
+- [Jamsocket](https://jamsocket.com/)
+- [Magic Patterns](https://magicpatterns.com/)
+- [Speakeasy](https://speakeasy.com/)
+- [Propel](https://www.propeldata.com/)
+- [Outerbase](https://outerbase.com/)
+- [Pinecone](https://www.pinecone.io/)
+- [Laminar](https://www.lmnr.ai/)
+- [Tempo Labs](https://tempolabs.ai/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
