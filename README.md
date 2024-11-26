@@ -23,6 +23,7 @@ Participating companies:
 - [Supabase](https://supabase.com)
 - [Trigger.dev](https://trigger.dev/)
 - [OpenInt](https://openint.dev/)
+- [Stack Auth](https://stack-auth.com/)
 - [Quivr](https://quivr.com/)
 - [Jamsocket](https://jamsocket.com/)
 - [Magic Patterns](https://magicpatterns.com/)
