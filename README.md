@@ -33,6 +33,7 @@ Participating companies:
 - [Pinecone](https://www.pinecone.io/)
 - [Laminar](https://www.lmnr.ai/)
 - [Tempo Labs](https://tempolabs.ai/)
+- [PropelAuth](https://www.propelauth.com/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
