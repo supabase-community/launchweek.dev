@@ -21,19 +21,20 @@
 Participating companies:
 
 - [Supabase](https://supabase.com)
-- [Trigger.dev](https://trigger.dev/)
-- [OpenInt](https://openint.dev/)
-- [Stack Auth](https://stack-auth.com/)
-- [Quivr](https://quivr.com/)
 - [Jamsocket](https://jamsocket.com/)
+- [Laminar](https://www.lmnr.ai/)
 - [Magic Patterns](https://magicpatterns.com/)
-- [Speakeasy](https://speakeasy.com/)
-- [Propel](https://www.propeldata.com/)
+- [OpenInt](https://openint.dev/)
 - [Outerbase](https://outerbase.com/)
 - [Pinecone](https://www.pinecone.io/)
-- [Laminar](https://www.lmnr.ai/)
-- [Tempo Labs](https://tempolabs.ai/)
+- [Periskope](https://periskope.app/)
+- [Propel](https://www.propeldata.com/)
 - [PropelAuth](https://www.propelauth.com/)
+- [Quivr](https://quivr.com/)
+- [Speakeasy](https://speakeasy.com/)
+- [Stack Auth](https://stack-auth.com/)
+- [Tempo Labs](https://tempolabs.ai/)
+- [Trigger.dev](https://trigger.dev/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
