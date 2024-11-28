@@ -35,6 +35,7 @@ Participating companies:
 - [Stack Auth](https://stack-auth.com/)
 - [Tempo Labs](https://tempolabs.ai/)
 - [Trigger.dev](https://trigger.dev/)
+- [Andi](https://andisearch.com/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
