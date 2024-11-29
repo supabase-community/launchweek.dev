@@ -3,6 +3,17 @@ title: README.md
 description: Tracking launch weeks across the industry for product discovery and inspiration
 ---
 
+<form
+  action="https://buttondown.com/api/emails/embed-subscribe/launchweek.dev"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.com/launchweek.dev', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <input type="email" name="email" placeholder="Enter your email to get the latest updates" id="bd-email" />
+  <input type="submit" value="Subscribe" />
+</form>
+
 ## about
 
 What's a launch week? It's a week of announcing new features. [See examples here](lw).
@@ -11,20 +22,20 @@ What's a launch week? It's a week of announcing new features. [See examples here
 
 ## upcoming
 
-<Card title="MEGA LAUNCH WEEK" href="lw/MEGA">
+<Card
+  title="MEGA LAUNCH WEEK"
+  href="lw/MEGA"
+
+  icon={
+  <svg width="24" height="24" viewBox="0 0 360 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <rect width="60" height="300" fill="white"/>
+      <rect x="60" y="300" width="120" height="60" fill="white"/>
+      <rect x="240" y="300" width="60" height="60" fill="white"/>
+      <rect x="300" width="60" height="300" fill="white"/>
+      <rect x="180" width="60" height="300" fill="white"/>
+  </svg>}>
     1 week. 19 devtools launching together. Starting December 2, 2024.
 </Card>
-
----
-
-<CardGroup cols={2}>
-    <Card title="Watch on GitHub" icon="github" href="https://git.new/lw" horizontal>
-    </Card>
-    <Card title="Follow on X" icon="x-twitter" href="https://x.com/i/lists/1861374828361765079" horizontal>
-    </Card>
-</CardGroup>
-
-**Want to be part of it? [Create a Pull Request here](https://git.new/lw).**
 
 ## objectives
 

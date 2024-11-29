@@ -21,7 +21,8 @@
   },
 
   "modeToggle": {
-      "default": "dark"  
+    "default": "dark",
+    "isHidden": true
   },
 
   "font": {
@@ -65,7 +66,10 @@
   },
 
   "footer": {
-    "socials": { "github": "https://git.new/lw" },
+    "socials": {
+      "github": "https://git.new/lw",
+      "x": "https://x.com/launchweekdev"
+    },
     "links": [
       {
         "title": "launchweek.dev",
@@ -81,7 +85,8 @@
         "title": "maintainers",
         "links": [
           {
-            "label": "Paul Copplestone", "url": "https://x.com/kiwicopple"
+            "label": "Paul Copplestone",
+            "url": "https://x.com/kiwicopple"
           },
           { "label": "Flo Merian", "url": "https://x.com/fmerian" }
         ]
