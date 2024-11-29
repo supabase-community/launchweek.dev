@@ -23,13 +23,15 @@ Participating companies:
 - [Supabase](https://supabase.com)
 - [AirPinpoint](https://airpinpoint.com/)
 - [Andi](https://andisearch.com/)
+- [Ellipsis](http://ellipsis.dev/)
+- [Integrated Reasoning](https://reason.ing/)
 - [Jamsocket](https://jamsocket.com/)
 - [Laminar](https://www.lmnr.ai/)
 - [Magic Patterns](https://magicpatterns.com/)
 - [OpenInt](https://openint.dev/)
 - [Outerbase](https://outerbase.com/)
-- [Pinecone](https://www.pinecone.io/)
 - [Periskope](https://periskope.app/)
+- [Pinecone](https://www.pinecone.io/)
 - [Propel](https://www.propeldata.com/)
 - [PropelAuth](https://www.propelauth.com/)
 - [Quivr](https://quivr.com/)
@@ -37,7 +39,6 @@ Participating companies:
 - [Stack Auth](https://stack-auth.com/)
 - [Tempo Labs](https://tempolabs.ai/)
 - [Trigger.dev](https://trigger.dev/)
-- [Integrated Reasoning](https://reason.ing/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
