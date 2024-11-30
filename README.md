@@ -35,6 +35,7 @@ Participating companies:
 - [Propel](https://www.propeldata.com/)
 - [PropelAuth](https://www.propelauth.com/)
 - [Quivr](https://quivr.com/)
+- [Replexica](https://replexica.com/)
 - [Speakeasy](https://speakeasy.com/)
 - [Stack Auth](https://stack-auth.com/)
 - [Tempo Labs](https://tempolabs.ai/)
