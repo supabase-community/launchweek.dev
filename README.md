@@ -23,7 +23,9 @@ Participating companies:
 - [Supabase](https://supabase.com)
 - [AirPinpoint](https://airpinpoint.com/)
 - [Andi](https://andisearch.com/)
+- [Beam](https://www.beam.cloud/)
 - [Ellipsis](http://ellipsis.dev/)
+- [Fiberplane](https://fiberplane.com/)
 - [Integrated Reasoning](https://reason.ing/)
 - [Jamsocket](https://jamsocket.com/)
 - [Laminar](https://www.lmnr.ai/)
@@ -40,7 +42,6 @@ Participating companies:
 - [Stack Auth](https://stack-auth.com/)
 - [Tempo Labs](https://tempolabs.ai/)
 - [Trigger.dev](https://trigger.dev/)
-- [Fiberplane](https://fiberplane.com/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
