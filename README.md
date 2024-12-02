@@ -42,6 +42,7 @@ Participating companies:
 - [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative.
 - [Tempo Labs](https://tempolabs.ai/) - Code-first FIgma alternative.
 - [Trigger.dev](https://trigger.dev/) - Open-source background jobs platform.
+- [Synth](https://www.usesynth.ai) - Automated AI Agent Optimization
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
