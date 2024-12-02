@@ -25,6 +25,7 @@ Participating companies:
 - [Andi](https://andisearch.com/) - AI search agent.
 - [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure.
 - [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes.
+- [Synth](https://www.usesynth.ai) - Automated AI Agent Optimization
 - [Fiberplane](https://fiberplane.com/) - Test and debug Hono APIs.
 - [Jamsocket](https://jamsocket.com/) - Backends for real-time apps.
 - [KeyHippo](https://www.keyhippo.com/) - API Keys for Postgres RLS.
@@ -42,7 +43,6 @@ Participating companies:
 - [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative.
 - [Tempo Labs](https://tempolabs.ai/) - Code-first FIgma alternative.
 - [Trigger.dev](https://trigger.dev/) - Open-source background jobs platform.
-- [Synth](https://www.usesynth.ai) - Automated AI Agent Optimization
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
