@@ -37,7 +37,7 @@ Participating companies:
 - [Propel](https://www.propeldata.com/) - Serverless ClickHouse platform.
 - [PropelAuth](https://www.propelauth.com/) - Team-based authentication.
 - [Quivr](https://quivr.com/) - Open-source RAG framework to deploy and use AI agents.
-- [Replexica](https://replexica.com/) - AI localization infrastructure.
+- [Replexica](https://replexica.com/) - Automated AI localization for dev teams.
 - [Speakeasy](https://speakeasy.com/) - API tooling for SDKs, API docs, Terraform providers, and end-to-end testing.
 - [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative.
 - [Tempo Labs](https://tempolabs.ai/) - Code-first FIgma alternative.
