@@ -24,6 +24,7 @@ Participating companies:
 - [AirPinpoint](https://airpinpoint.com/) - API for Apple AirTags tracking.
 - [Andi](https://andisearch.com/) - AI search agent.
 - [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure.
+- [Coval](https://coval.dev/) — Simulation and evals for voice and chat agents.
 - [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes.
 - [Fiberplane](https://fiberplane.com/) - Test and debug Hono APIs.
 - [Jamsocket](https://jamsocket.com/) - Backends for real-time apps.
@@ -32,7 +33,6 @@ Participating companies:
 - [Magic Patterns](https://magicpatterns.com/) - Prototype product ideas with AI.
 - [OpenInt](https://openint.dev/) - Open-source embeddable product integrations.
 - [Outerbase](https://outerbase.com/) - AI-powered database UI.
-- [Periskope](https://periskope.app/) - WhatsApp group management platform.
 - [Pinecone](https://www.pinecone.io/) - AI infrastructure for building accurate, secure, and scalable AI apps.
 - [Propel](https://www.propeldata.com/) - Serverless ClickHouse platform.
 - [PropelAuth](https://www.propelauth.com/) - Team-based authentication.
