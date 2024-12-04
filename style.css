@@ -1,5 +1,47 @@
 @media screen and (min-width: 1024px) {
     #navbar {
-        visibility: hidden;
+      visibility: hidden;
     }
-}
+  }
+  
+  form {
+    font-family: var(--font-inter, sans-serif);
+    color: rgb(var(--gray-400));
+    background-color: rgb(var(--background-dark));
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    border-radius: var(--rounded-xl, 0.75rem);
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 100%;
+    position: relative;
+  }
+
+  ::placeholder {
+    font-family: var(--font-jetbrains-mono), monospace;
+    color: rgb(var(--gray-900));
+  }
+  
+  input[type="email"] {
+    font-family: inherit;
+    color: inherit;
+    background-color: inherit;
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    border-radius: var(--rounded-lg, 0.5rem);
+    padding: 0.8rem;
+    flex: 1;
+  }
+  
+  input[type="submit"] {
+    color: white;
+    background-color: #8957e5;
+    border: none;
+    border-radius: var(--rounded-lg, 0.5rem);
+    margin-left: 0.5rem;
+    padding: 0.8rem 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    white-space: nowrap;
+  }
+  

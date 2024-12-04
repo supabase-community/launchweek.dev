@@ -21,7 +21,8 @@
   },
 
   "modeToggle": {
-      "default": "dark"  
+    "default": "dark",
+    "isHidden": true
   },
 
   "font": {
@@ -51,7 +52,7 @@
     { "group": "launchweek.dev", "pages": ["HOME", "CONTRIBUTING"] },
     {
       "group": "launch weeks",
-      "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
+      "pages": ["lw/MEGA", "lw/2024", "lw/2023", "lw/2022", "lw/2021"]
     },
     { "group": "best practices", "pages": ["content/supabase-how-we-launch"] },
     {
@@ -65,7 +66,10 @@
   },
 
   "footer": {
-    "socials": { "github": "https://git.new/lw" },
+    "socials": {
+      "github": "https://git.new/lw",
+      "x": "https://x.com/launchweekdev"
+    },
     "links": [
       {
         "title": "launchweek.dev",
@@ -81,7 +85,8 @@
         "title": "maintainers",
         "links": [
           {
-            "label": "Paul Copplestone", "url": "https://x.com/kiwicopple"
+            "label": "Paul Copplestone",
+            "url": "https://x.com/kiwicopple"
           },
           { "label": "Flo Merian", "url": "https://x.com/fmerian" }
         ]

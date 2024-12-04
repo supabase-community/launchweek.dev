@@ -20,23 +20,28 @@
 
 Participating companies:
 
-- [Supabase](https://supabase.com)
-- [AirPinpoint](https://airpinpoint.com/)
-- [Andi](https://andisearch.com/)
-- [Jamsocket](https://jamsocket.com/)
-- [Laminar](https://www.lmnr.ai/)
-- [Magic Patterns](https://magicpatterns.com/)
-- [OpenInt](https://openint.dev/)
-- [Outerbase](https://outerbase.com/)
-- [Pinecone](https://www.pinecone.io/)
-- [Periskope](https://periskope.app/)
-- [Propel](https://www.propeldata.com/)
-- [PropelAuth](https://www.propelauth.com/)
-- [Quivr](https://quivr.com/)
-- [Speakeasy](https://speakeasy.com/)
-- [Stack Auth](https://stack-auth.com/)
-- [Tempo Labs](https://tempolabs.ai/)
-- [Trigger.dev](https://trigger.dev/)
+- [Supabase](https://supabase.com) - Open-source Firebase alternative.
+- [AirPinpoint](https://airpinpoint.com/) - API for Apple AirTags tracking.
+- [Andi](https://andisearch.com/) - AI search agent.
+- [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure.
+- [Coval](https://coval.dev/) — Simulation and evals for voice and chat agents.
+- [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes.
+- [Fiberplane](https://fiberplane.com/) - Test and debug Hono APIs.
+- [Jamsocket](https://jamsocket.com/) - Backends for real-time apps.
+- [KeyHippo](https://www.keyhippo.com/) - API Keys for Postgres RLS.
+- [Laminar](https://www.lmnr.ai/) - Open-source all-in-one platform for engineering AI products.
+- [Magic Patterns](https://magicpatterns.com/) - Prototype product ideas with AI.
+- [OpenInt](https://openint.dev/) - Open-source embeddable product integrations.
+- [Outerbase](https://outerbase.com/) - AI-powered database UI.
+- [Pinecone](https://www.pinecone.io/) - AI infrastructure for building accurate, secure, and scalable AI apps.
+- [Propel](https://www.propeldata.com/) - Serverless ClickHouse platform.
+- [PropelAuth](https://www.propelauth.com/) - Team-based authentication.
+- [Quivr](https://quivr.com/) - Open-source RAG framework to deploy and use AI agents.
+- [Replexica](https://replexica.com/) - AI localization infrastructure.
+- [Speakeasy](https://speakeasy.com/) - API tooling for SDKs, API docs, Terraform providers, and end-to-end testing.
+- [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative.
+- [Tempo Labs](https://tempolabs.ai/) - Code-first FIgma alternative.
+- [Trigger.dev](https://trigger.dev/) - Open-source background jobs platform.
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
