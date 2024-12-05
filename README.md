@@ -22,7 +22,6 @@ Participating companies:
 
 - [Supabase](https://supabase.com) - Open-source Firebase alternative.
 - [AirPinpoint](https://airpinpoint.com/) - API for Apple AirTags tracking.
-- [Andi](https://andisearch.com/) - AI search agent.
 - [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure.
 - [Coval](https://coval.dev/) — Simulation and evals for voice and chat agents.
 - [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes.
@@ -40,6 +39,7 @@ Participating companies:
 - [Replexica](https://replexica.com/) - AI localization infrastructure.
 - [Speakeasy](https://speakeasy.com/) - API tooling for SDKs, API docs, Terraform providers, and end-to-end testing.
 - [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative.
+- [Synth](https://www.usesynth.ai) - Automated AI Agent Optimization.
 - [Tempo Labs](https://tempolabs.ai/) - Code-first FIgma alternative.
 - [Trigger.dev](https://trigger.dev/) - Open-source background jobs platform.
 
