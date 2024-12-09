@@ -21,8 +21,7 @@
   },
 
   "modeToggle": {
-    "default": "dark",
-    "isHidden": true
+    "default": "dark"
   },
 
   "font": {
@@ -52,12 +51,19 @@
     { "group": "launchweek.dev", "pages": ["HOME", "CONTRIBUTING"] },
     {
       "group": "launch weeks",
-      "pages": ["lw/MEGA", "lw/2024", "lw/2023", "lw/2022", "lw/2021"]
+      "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
     },
     { "group": "best practices", "pages": ["content/supabase-how-we-launch"] },
     {
       "group": "maintainers",
       "pages": ["content/kiwicopple", "content/fmerian"]
+    }
+  ],
+
+  "redirects": [
+    {
+      "source": "/lw/MEGA",
+      "destination": "/lw/2024/MEGA"
     }
   ],
 

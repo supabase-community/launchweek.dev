@@ -12,36 +12,10 @@
 
 **This repository tracks past and upcoming launch weeks across the dev tools space.**
 
-## upcoming: mega
+## upcoming
 
-**Mega Launch Week** is like Black Friday for developers. One week in the year, devtools agree to launch together.
-
-**The first Mega Launch Week is on December 02, 2024. Watch this repo to get notified.**
-
-Participating companies:
-
-- [Supabase](https://supabase.com) - Open-source Firebase alternative.
-- [AirPinpoint](https://airpinpoint.com/) - API for Apple AirTags tracking.
-- [Beam](https://www.beam.cloud/) - Serverless cloud infrastructure.
-- [Coval](https://coval.dev/) — Simulation and evals for voice and chat agents.
-- [Ellipsis](http://ellipsis.dev/) - AI code reviews and bug fixes.
-- [Fiberplane](https://fiberplane.com/) - Test and debug Hono APIs.
-- [Jamsocket](https://jamsocket.com/) - Backends for real-time apps.
-- [KeyHippo](https://www.keyhippo.com/) - API Keys for Postgres RLS.
-- [Laminar](https://www.lmnr.ai/) - Open-source all-in-one platform for engineering AI products.
-- [Magic Patterns](https://magicpatterns.com/) - Prototype product ideas with AI.
-- [OpenInt](https://openint.dev/) - Open-source embeddable product integrations.
-- [Outerbase](https://outerbase.com/) - AI-powered database UI.
-- [Pinecone](https://www.pinecone.io/) - AI infrastructure for building accurate, secure, and scalable AI apps.
-- [Propel](https://www.propeldata.com/) - Serverless ClickHouse platform.
-- [PropelAuth](https://www.propelauth.com/) - Team-based authentication.
-- [Quivr](https://quivr.com/) - Open-source RAG framework to deploy and use AI agents.
-- [Replexica](https://replexica.com/) - AI localization infrastructure.
-- [Speakeasy](https://speakeasy.com/) - API tooling for SDKs, API docs, Terraform providers, and end-to-end testing.
-- [Stack Auth](https://stack-auth.com/) - Open-source Auth0 alternative.
-- [Synth](https://www.usesynth.ai) - Automated AI Agent Optimization.
-- [Tempo Labs](https://tempolabs.ai/) - Code-first FIgma alternative.
-- [Trigger.dev](https://trigger.dev/) - Open-source background jobs platform.
+- 2024 / 12 / 09-13: Encore Launch Week 2 // [Preview on X ↗︎](https://x.com/encoredotdev/status/1863509378466214021)
+- 2024 / 12 / 09-13: Warp Launch Week II // [Preview on X ↗︎](https://x.com/warpdotdev/status/1859688781882028341)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
