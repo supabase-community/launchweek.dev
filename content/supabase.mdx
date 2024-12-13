@@ -1,7 +1,12 @@
 ---
 title: How we launch at Supabase
-description: The history and methodology of Supabase Launch Week.
+description: The history and methodology of Supabase Launch Week
 url: https://supabase.com/blog/supabase-how-we-launch
+noindex: true
+---
+
+Originally published by Ant Wilson on [supabase.com](https://supabase.com/blog/supabase-how-we-launch).
+
 ---
 
 Next week is Supabase Launch Week. It's our third Launch Week this year, and is a key part of a Product-Led Growth strategy that has enabled us to increase the number of databases we manage 47% month-on-month for the last 18 months.
@@ -10,9 +15,9 @@ We often get asked about how we're able to ship so relentlessly, and being an op
 
 Before I go into the nuts and bolts of what Launch Week is, and the exact processes we follow when executing one, it's probably useful if I explain how we landed on this methodology in the first place.
 
-## A brief history of growth at Supabase#
+## A brief history of growth at Supabase
 
-We started work on Supabase in January 2020. Our growth plan from the start included being accepted into YCombinator. Dev Tool companies who enter YC gain a huge advantage from day one. You're placed in a cohort of hundreds of other early-stage startups, the majority of whom are developing software, and have just been given a bunch of funding, making them ideal early customers! This, however, turned out to be only a small part of what YC ultimately gifted us.
+We started work on Supabase in January 2020. Our growth plan from the start included being accepted into Y Combinator (YC). DevTool companies who enter YC gain a huge advantage from day one. You're placed in a cohort of hundreds of other early-stage startups, the majority of whom are developing software, and have just been given a bunch of funding, making them ideal early customers! This, however, turned out to be only a small part of what YC ultimately gifted us.
 
 At the time we joined the batch, we had around 80 alpha users of varying levels of activeness. Our plan was to spend the batch iterating the product around these early alpha users, and to do a big public launch a week or so before Demo Day (an event where you pitch to a shiver of investors). Our plan was foiled however, when an early user shared our site on Hacker News. The post stayed on the home page for several days, and ended up being one of the most upvoted dev tools launches ever (second only to Stripe!). Overnight, the number of databases we were hosting increased ten-fold. Bugs, breakages and feature requests flooded in from every angle; a fantastic problem to have for a fledgling startup. Over the course of the next 2 months we worked hard on a few major items, including Supabase Auth, and migrating our entire stack between cloud providers, along with hundreds of other smaller fixes and incremental improvements - both to our product, and to our company.
 
@@ -27,6 +32,10 @@ The very next week, still high on adrenaline, we met for a retrospective. The de
 During the last week of March 2021, we went on to ship 7 major features. We once again saw an immediate uptick in growth rate which helped solidify our strategy.
 
 More recently we ran "[Launch Week II: The SQL](https://supabase.com/blog/supabase-launch-week-sql)", where we bumped the versions of several key products in our stack, and added a [Community Day](https://supabase.com/blog/supabase-community-day) with the aim of boosting visibility and support of various open source tools and projects that we rely on, along with products, frameworks, and tooling built by the rapidly expanding [Supabase Community](https://github.com/supabase-community/).
+
+<Card title="supabase-community on GitHub" href="https://github.com/supabase-community">
+  Client libraries and more maintained and supported by the Supabase Community.
+</Card>
 
 We're now just a few days away from Launch Week III, and over time have incrementally improved upon many of the processes and tactics that help us maximize output whilst minimizing stress on the team. So let's get into some specifics about how we run a product cycle and the resulting Launch Week.
 
@@ -58,8 +67,6 @@ Another key thing to mention here is that we very rarely hold back features unti
 
 In the weeks leading up to Launch Week, we review more closely the list of items we want to Launch and start to plan for what supporting materials we'll need. There are some things such as press, which needs to be organized up to 3 weeks before you plan to Launch, so you better get started early on those items. Also being aware of which third parties are going to be involved is important. Maybe we're shipping an integration with some other tool or company, cross-company communication can be a blocker, so better to start early.
 
-supabase monthly growth
-
 ## Pre-Launch Week
 
 One of our learnings from previous Launch Weeks was to no longer ship to prod on the day of the Launch itself :). We had a blast live-debugging prod issues on Discord last time, but this was not so conducive to getting enough sleep. Our Launch Weeks have become a marathon, so it's ideal to get all the major integrations done a week early. Also writing the content and getting someone to edit can take a couple of iterations. This all seems obvious written down here, but it took us a few iterations to start being more regimented.
@@ -72,14 +79,18 @@ I can't think of many things more fun than executing on a Supabase Launch Week. 
 
 When it comes to the day of each launch we've gotten into the habit of constructing a finely detailed schedule to follow. It will contain items such as:
 
-- 7:30am Twitter spaces reminder tweet
-- 7:55am Product Hunt goes live
-- 8:00am Blog post goes live
-- 8:05am Post launch tweet 1
-- 8:10am Share tweet with Angels
-- 8:15am Twitter spaces go live
+- 7:30am: Twitter spaces reminder tweet
+- 7:55am: Product Hunt goes live
+- 8:00am: Blog post goes live
+- 8:05am: Post launch tweet 1
+- 8:10am: Share tweet with Angels
+- 8:15am: Twitter spaces go live
 
 Of course, it's possible to run this all without such a fine-grained schedule, but the launches can get kind of hectic, so it's easier to not have to think - just do.
+
+<Card title="/launch-week" href="https://supabase.com/launch-week">
+  A week of new features.
+</Card>
 
 ## The Rest
 
@@ -96,6 +107,10 @@ This "internal accelerator" model has worked well within Supabase as a 2-person 
 In some ways, running Supabase is like launching many startups at the same time, we have to build and maintain many different parallel projects in order to match Firebase's incredible suite of products, which could be one reason why it lends itself so well to this acceleration model. And, in fact, being a Firebase alternative is only a small part of [what we want to achieve with Supabase](https://supabase.com/blog/supabase-series-a), so we have many, many more initiatives to run as we grow.
 
 Running an accelerator model may also be why we've had success [hiring so many other founders](https://about.supabase.com/careers/founders). We're able to give a high degree of autonomy to individuals when it comes to managing projects and initiatives. If this kind of work environment sounds interesting to you, we have tons of [open roles](https://about.supabase.com/careers). We've already hired people who joined because they "couldn't stand to watch another Launch Week from the sidelines" and team members often quote experiencing their first Launch Week as one of the highlights of their Supabase journey so far. It clearly has benefits that extend beyond just growth and user activation.
+
+<Card title="/careers" href="https://supabase.com/careers">
+  Explore remote opportunities and join Supabase to help build the best developer platform.
+</Card>
 
 Make sure you follow us on [Twitter](https://twitter.com/supabase), join our [Discord](https://discord.supabase.com/), or [sign up for Supabase](https://supabase.com/dashboard) in order to keep up to date on all things Supabase.
 
