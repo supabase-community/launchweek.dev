@@ -48,7 +48,7 @@
   },
 
   "navigation": [
-    { "group": "launchweek.dev", "pages": ["home", "CONTRIBUTING"] },
+    { "group": "launchweek.dev", "pages": ["home", "lw/new"] },
     {
       "group": "launch weeks",
       "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
@@ -83,7 +83,7 @@
           { "label": "README.md", "url": "https://launchweek.dev/" },
           {
             "label": "CONTRIBUTING.md",
-            "url": "https://launchweek.dev/CONTRIBUTING"
+            "url": "https://launchweek.dev/lw/new"
           }
         ]
       },
