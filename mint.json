@@ -48,12 +48,12 @@
   },
 
   "navigation": [
-    { "group": "launchweek.dev", "pages": ["HOME", "CONTRIBUTING"] },
+    { "group": "launchweek.dev", "pages": ["home", "CONTRIBUTING"] },
     {
       "group": "launch weeks",
       "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
     },
-    { "group": "best practices", "pages": ["content/supabase-how-we-launch"] },
+    { "group": "best practices", "pages": ["content/supabase"] },
     {
       "group": "maintainers",
       "pages": ["content/kiwicopple", "content/fmerian"]
@@ -63,7 +63,7 @@
   "redirects": [
     {
       "source": "/lw/MEGA",
-      "destination": "/lw/2024/MEGA"
+      "destination": "/lw/2024/mega"
     }
   ],
 
