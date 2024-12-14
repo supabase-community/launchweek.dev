@@ -51,7 +51,7 @@
     { "group": "launchweek.dev", "pages": ["home", "lw/new"] },
     {
       "group": "launch weeks",
-      "pages": ["lw/2024", "lw/2023", "lw/2022", "lw/2021"]
+      "pages": ["lw/2024/mega", "lw/2024", "lw/2023", "lw/2022", "lw/2021"]
     },
     { "group": "best practices", "pages": ["content/supabase"] },
     {
