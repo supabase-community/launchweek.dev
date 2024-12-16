@@ -14,9 +14,7 @@
 
 ## upcoming
 
-- 2024 / 12 / 09-13: Encore Launch Week 2 // [Preview on X ↗︎](https://x.com/encoredotdev/status/1863509378466214021)
-- 2024 / 12 / 09-13: Diagrid 2024 Q4 Launch Week // [Preview on X ↗︎](https://x.com/diagridio/status/1861237443451560086)
-- 2024 / 12 / 09-13: Warp Launch Week II // [Preview on X ↗︎](https://x.com/warpdotdev/status/1859688781882028341)
+- 2024 / 12 / 16-20: Morph Launch Week 2 // [Read the blog announcement ↗︎](https://www.morph-data.io/blog/launch-week-2)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
