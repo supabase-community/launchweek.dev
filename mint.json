@@ -4,11 +4,11 @@
   "name": "launchweek.dev",
 
   "logo": {
-    "light": "/assets/lw-icon-light.svg",
-    "dark": "/assets/lw-icon-dark.svg"
+    "light": "/img/lw-icon-light.svg",
+    "dark": "/img/lw-icon-dark.svg"
   },
 
-  "favicon": "/assets/lw-icon-dark.svg",
+  "favicon": "/img/lw-icon-dark.svg",
 
   "colors": {
     "primary": "#8957E5",
@@ -68,6 +68,10 @@
     {
       "source": "/content/rorstro",
       "destination": "/n/rorstro"
+    },
+    {
+      "source": "/n",
+      "destination": "/n/forward"
     }
   ],
 
