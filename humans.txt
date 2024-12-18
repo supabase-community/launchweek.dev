@@ -1,0 +1,6 @@
+MAINTAINERS
+
+We're 100% remote.
+
+Flo Merian
+Paul Copplestone

@@ -53,7 +53,7 @@
       "group": "launch weeks",
       "pages": ["lw/2024/mega", "lw/2024", "lw/2023", "lw/2022", "lw/2021"]
     },
-    { "group": "best practices", "pages": ["n/supabase"] },
+    { "group": "best practices", "pages": ["n/supabase", "n/resend"] },
     {
       "group": "maintainers",
       "pages": ["n/kiwicopple", "n/fmerian"]
