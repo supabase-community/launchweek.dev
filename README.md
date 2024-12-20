@@ -20,6 +20,7 @@
 
 2024 / 12 / W51 
 
+- 16-20: Openfort Launch Week - Framework for building wallet SDKs // [Go to launch page ↗︎](https://www.openfort.xyz/launch-week)
 - 16-20: Morph Launch Week 2 - AI-powered, code-driven data apps // [Read the blog announcement ↗︎](https://www.morph-data.io/blog/launch-week-2)
 
 2024 / 12 / W50
