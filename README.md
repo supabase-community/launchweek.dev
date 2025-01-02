@@ -18,15 +18,13 @@
 
 ## upcoming
 
+2025 / 01 / W02
+
+- 13-17: Appsmith Advance Winter 2025 Launch Week - Open-source low-code apps platform // [Go to launch page ↗︎](https://www.appsmith.com/event/appsmith-advance-winter-2025-launch) 
+
 2024 / 12 / W52
 
 - 23-27: Daytona Create Launch Week 4 - Open-source dev environment manager // [Go to launch page ↗︎](https://create.daytona.io/)
-  </Card>
-
-2024 / 12 / W51 
-
-- 16-20: Openfort Launch Week - Framework for building wallet SDKs // [Go to launch page ↗︎](https://www.openfort.xyz/launch-week)
-- 16-20: Morph Launch Week 2 - AI-powered, code-driven data apps // [Read the blog announcement ↗︎](https://www.morph-data.io/blog/launch-week-2)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
