@@ -20,11 +20,11 @@
 
 2025 / 01 / W02
 
+- 06-10: OpenLIT Launch Week - Open-source platform for AI engineering // [Preview on X ↗︎](https://x.com/openlit_io/status/1875539932808409116)
+
+2025 / 01 / W03
+
 - 13-17: Appsmith Advance Winter 2025 Launch Week - Open-source low-code apps platform // [Go to launch page ↗︎](https://www.appsmith.com/event/appsmith-advance-winter-2025-launch) 
-
-2024 / 12 / W52
-
-- 23-27: Daytona Create Launch Week 4 - Open-source dev environment manager // [Go to launch page ↗︎](https://create.daytona.io/)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
