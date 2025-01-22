@@ -26,6 +26,10 @@
 
 - 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps // [Read the blog post ↗︎](https://www.morph-data.io/blog/launch-week-3)
 
+2025 / 01 / W04
+
+- 20-25: HTTPie Launch Week - Cross-platform API testing client
+
 2025 / 01 / W03
 
 - 13-15: Ragie Launch Week - Fully managed RAG-as-a-Service // [Go to launch page ↗︎](https://www.ragie.ai/launch-week-1)
