@@ -20,7 +20,7 @@
 
 2025 / 02 / W07
 
-- 10-14: SigNoz Launch Week 3 - OpenTelemetry Native, Open-source Observability platform // [Go to launch page ↗︎](https://signoz.io/launch-week/)
+- 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform // [Go to launch page ↗︎](https://signoz.io/launch-week/)
 
 2025 / 02 / W06
 
