@@ -34,9 +34,9 @@
 
 - 13-15: Ragie Launch Week - Fully managed RAG-as-a-Service // [Go to launch page ↗︎](https://www.ragie.ai/launch-week-1)
 - 13-17: Appsmith Advance Winter 2025 Launch Week - Open-source low-code apps platform // [Read the recap ↗︎](https://www.appsmith.com/blog/appsmith-launch-week-1) 
-- 13-17: Pylon AI Launch Week - Customer support platform
+- 13-17: Pylon AI Launch Week - AI-integrated customer support platform
 - 13-17: Wasp Launch Week 8 - Rails-like framework for React // [Read the blog post ↗︎](https://wasp-lang.dev/blog/2025/01/09/wasp-launch-week-8) 
-- 14-16: Dub Launch Week - Link management platform // [Read the recap ↗︎](https://dub.sh/blog/launch-week-recap)
+- 14-16: Dub Launch Week - Open-source link management platform // [Read the recap ↗︎](https://dub.link/blog/launch-week-recap)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
