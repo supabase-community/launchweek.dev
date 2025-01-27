@@ -20,23 +20,15 @@
 
 2025 / 02 / W07
 
-- 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform // [Go to launch page ↗︎](https://signoz.io/launch-week/)
+- 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform
 
 2025 / 02 / W06
 
-- 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps // [Read the blog post ↗︎](https://www.morph-data.io/blog/launch-week-3)
+- 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps
 
 2025 / 01 / W04
 
 - 20-25: HTTPie Launch Week - Cross-platform API testing client
-
-2025 / 01 / W03
-
-- 13-15: Ragie Launch Week - Fully managed RAG-as-a-Service // [Go to launch page ↗︎](https://www.ragie.ai/launch-week-1)
-- 13-17: Appsmith Advance Winter 2025 Launch Week - Open-source low-code apps platform // [Read the recap ↗︎](https://www.appsmith.com/blog/appsmith-launch-week-1) 
-- 13-17: Pylon AI Launch Week - AI-integrated customer support platform
-- 13-17: Wasp Launch Week 8 - Rails-like framework for React // [Read the blog post ↗︎](https://wasp-lang.dev/blog/2025/01/09/wasp-launch-week-8) 
-- 14-16: Dub Launch Week - Open-source link management platform // [Read the recap ↗︎](https://dub.link/blog/launch-week-recap)
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
