@@ -26,9 +26,13 @@
 
 - 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps
 
+2025 / 01 / W05
+
+- 27-31: Highlight.io Launch Week 8 - Open-source, full-stack monitoring platform
+
 2025 / 01 / W04
 
-- 20-25: HTTPie Launch Week - Cross-platform API testing client
+- 20-24: HTTPie Launch Week - Cross-platform API testing client
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
