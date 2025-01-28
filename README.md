@@ -28,7 +28,9 @@
 
 2025 / 01 / W05
 
+- 27-31: BAML Launch Week - Programming language for structured text generation
 - 27-31: Highlight.io Launch Week 8 - Open-source, full-stack monitoring platform
+- 27-31: Zephyr Cloud Launch Week 2 - Deployment platform for micro-frontends and module federation
 
 2025 / 01 / W04
 
