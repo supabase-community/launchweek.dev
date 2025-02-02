@@ -20,11 +20,11 @@
 
 2025 / 02 / W07
 
-- 03-05: Pullpo.io Launch Week - Pullpo helps engineering teams with data and tools to ship high quality code faster.
 - 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform
 
 2025 / 02 / W06
 
+- 03-05: Pullpo.io Launch Week - Pullpo helps engineering teams with data and tools to ship high quality code faster.
 - 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps
 
 2025 / 01 / W05
@@ -32,10 +32,6 @@
 - 27-31: BAML Launch Week - Programming language for structured text generation
 - 27-31: Highlight.io Launch Week 8 - Open-source, full-stack monitoring platform
 - 27-31: Zephyr Cloud Launch Week 2 - Deployment platform for micro-frontends and module federation
-
-2025 / 01 / W04
-
-- 20-24: HTTPie Launch Week - Cross-platform API testing client
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
