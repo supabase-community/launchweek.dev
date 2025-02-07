@@ -24,8 +24,10 @@
 
 2025 / 02 / W06
 
-- 03-05: Pullpo.io Launch Week - Code reviews in Slack.
+- 03-05: Pullpo.io Launch Week - Code reviews in Slack
 - 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps
+- 03-07: Novu Launch Week — Open-source notification management
+- 03-07: Prisma Postgres Launch Week — Instant PostgreSQL database for global applications
 
 2025 / 01 / W05
 
