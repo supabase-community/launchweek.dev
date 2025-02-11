@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 02 / W08
+
+- 18-21: Stytch Launch Week - APIs and SDKs for auth and fraud prevention
+
 2025 / 02 / W07
 
 - 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform
@@ -28,12 +32,6 @@
 - 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps
 - 03-07: Novu Launch Week — Open-source notification management
 - 03-07: Prisma Postgres Launch Week — Instant PostgreSQL database for global applications
-
-2025 / 01 / W05
-
-- 27-31: BAML Launch Week - Programming language for structured text generation
-- 27-31: Highlight.io Launch Week 8 - Open-source, full-stack monitoring platform
-- 27-31: Zephyr Cloud Launch Week 2 - Deployment platform for micro-frontends and module federation
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
