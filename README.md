@@ -24,6 +24,7 @@
 
 2025 / 02 / W07
 
+- 10-13: ProjectDiscovery Launch Week - Continuous monitoring platform
 - 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform
 
 2025 / 02 / W06
