@@ -20,7 +20,7 @@
 
 2025 / 02 / W08
 
-- 17-21: dstack Launch Week - Open-source alternative to Kubernetes
+- 17-21: dstack Launch Week - Open-source Kubernetes and Slurm alternative for AI
 - 18-21: Stytch Launch Week - APIs and SDKs for auth and fraud prevention
 
 2025 / 02 / W07
