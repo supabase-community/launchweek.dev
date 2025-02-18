@@ -20,6 +20,10 @@
 
 2025 / 02 / W08
 
+- 24-28: Laravel Launch Week - Laravel Cloud, Laravel 12, new Starter Kits, the Laravel VS Code extension a new laravel.com
+
+2025 / 02 / W08
+
 - 17-21: dstack Launch Week - Open-source Kubernetes and Slurm alternative for AI
 - 18-21: Stytch Launch Week - APIs and SDKs for auth and fraud prevention
 
