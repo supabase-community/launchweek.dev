@@ -18,7 +18,11 @@
 
 ## upcoming
 
-2025 / 02 / W08
+2025 / 03 / W10
+
+- 03-07: Railway Launch Week 02 - Out-of-the-box git to deployment
+
+2025 / 02 / W09
 
 - 24-28: DeepSeek Open-Source Week — Open-source AI models
 - 24-28: Laravel Launch Week - Laravel Cloud, Laravel 12, new Starter Kits, the Laravel VS Code extension a new laravel.com
@@ -27,18 +31,6 @@
 
 - 17-21: dstack Launch Week - Open-source Kubernetes and Slurm alternative for AI
 - 18-21: Stytch Launch Week - APIs and SDKs for auth and fraud prevention
-
-2025 / 02 / W07
-
-- 10-13: ProjectDiscovery Launch Week - Continuous monitoring platform
-- 10-14: SigNoz Launch Week 3 - OpenTelemetry native, open-source observability platform
-
-2025 / 02 / W06
-
-- 03-05: Pullpo.io Launch Week - Code reviews in Slack
-- 03-07: Morph Launch Week 3 - AI-powered, code-driven data apps
-- 03-07: Novu Launch Week — Open-source notification management
-- 03-07: Prisma Postgres Launch Week — Instant PostgreSQL database for global applications
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
