@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 03 / W12
+
+- 17-21: Pinecone Launch Week 2 - AI infrastructure
+
 2025 / 03 / W10
 
 - 03-07: Railway Launch Week 02 - Out-of-the-box git to deployment
@@ -25,7 +29,8 @@
 2025 / 02 / W09
 
 - 24-28: DeepSeek Open-Source Week — Open-source AI models
-- 24-28: Laravel Launch Week - Laravel Cloud, Laravel 12, new Starter Kits, the Laravel VS Code extension a new laravel.com
+- 24-28: Gel (EdgeDB) Launch Week — PostgreSQL data platform
+- 24-28: Laravel Launch Week - Laravel Cloud, Laravel 12, new Starter Kits, VS Code extension, and laravel.com
 
 2025 / 02 / W08
 
