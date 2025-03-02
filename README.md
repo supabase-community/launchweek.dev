@@ -31,7 +31,6 @@
 
 - 24-28: DeepSeek Open-Source Week — Open-source AI models
 - 24-28: Gel (EdgeDB) Launch Week — PostgreSQL data platform
-- 24-28: Laravel Launch Week - Laravel Cloud, Laravel 12, new Starter Kits, VS Code extension, and laravel.com
 
 2025 / 02 / W08
 
