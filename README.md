@@ -23,6 +23,10 @@
 - 17-21: Bucket Launch Week - Feature flags for B2B SaaS
 - 17-21: Pinecone Launch Week 2 - AI infrastructure
 
+2025 / 03 / W11
+
+- 10-14: Cyclops Launch week 02 - Framework for building dev platforms
+
 2025 / 03 / W10
 
 - 03-07: Railway Launch Week 02 - Out-of-the-box git to deployment
