@@ -27,6 +27,7 @@
 2025 / 03 / W11
 
 - 10-14: Cyclops Launch week 02 - Framework for building dev platforms
+- 10-14: Nango Launch Week - Product integration platform
 
 2025 / 03 / W10
 
