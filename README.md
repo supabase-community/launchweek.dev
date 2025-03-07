@@ -20,7 +20,7 @@
 
 2025 / 03 / W12
 
-- 17-21: Bucket DX Launch Week - Feature flags for B2B SaaS
+- 17-21: Bucket DX Launch Week - Feature flags you'll enjoy using
 - 17-21: Pinecone Launch Week 2 - AI infrastructure
 - 14-24: Tinybird Forward Launch Week - Analytics backend platform
 
