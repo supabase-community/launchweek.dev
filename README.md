@@ -22,10 +22,11 @@
 
 - 17-21: Bucket DX Launch Week - Feature flags you'll enjoy using
 - 17-21: Pinecone Launch Week 2 - AI infrastructure
-- 14-24: Tinybird Forward Launch Week - Analytics backend platform
+- 14-24: Tinybird Forward Launch Week - Open-source analytics backend platform
 
 2025 / 03 / W11
 
+- 10-14: Autumn Launch Week - Open-source pricing & billing platform
 - 10-14: Cyclops Launch week 02 - Framework for building dev platforms
 - 10-14: Nango Launch Week - Product integration platform
 
