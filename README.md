@@ -20,8 +20,9 @@
 
 2025 / 03 / W12
 
-- 17-21: Bucket DX Launch Week - Feature flags you'll enjoy using
+- 17-21: Bucket DX Launch Week - Feature flags crafted for speed
 - 17-21: Pinecone Launch Week 2 - AI infrastructure
+- 17-21: WorkOS Launch Week 3 - Enterprise SSO
 - 14-24: Tinybird Forward Launch Week - Open-source analytics backend platform
 
 2025 / 03 / W11
@@ -33,16 +34,6 @@
 2025 / 03 / W10
 
 - 03-07: Railway Launch Week 02 - Out-of-the-box git to deployment
-
-2025 / 02 / W09
-
-- 24-28: DeepSeek Open-Source Week — Open-source AI models
-- 24-28: Gel (EdgeDB) Launch Week — PostgreSQL data platform
-
-2025 / 02 / W08
-
-- 17-21: dstack Launch Week - Open-source Kubernetes and Slurm alternative for AI
-- 18-21: Stytch Launch Week - APIs and SDKs for auth and fraud prevention
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
