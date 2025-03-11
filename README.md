@@ -30,6 +30,7 @@
 - 10-14: Autumn Launch Week - Open-source pricing & billing platform
 - 10-14: Cyclops Launch week 02 - Framework for building dev platforms
 - 10-14: Nango Launch Week - Product integration platform
+- 10-14: Openfort Launch Week 2 — Framework for building wallet SDKs 
 
 2025 / 03 / W10
 
