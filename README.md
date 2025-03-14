@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 03 / W14
+
+- 24-28: Lamatic Launch Week 2 - Build, Test and Deploy Agentic Flows on serverless
+
 2025 / 03 / W12
 
 - 17-21: Bucket DX Launch Week - Feature flags for SaaS
