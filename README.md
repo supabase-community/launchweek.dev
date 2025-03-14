@@ -20,7 +20,7 @@
 
 2025 / 03 / W12
 
-- 17-21: Bucket DX Launch Week - Feature flags crafted for speed
+- 17-21: Bucket DX Launch Week - Feature flags for SaaS
 - 17-21: Pinecone Launch Week 2 - AI infrastructure
 - 17-21: WorkOS Launch Week 3 - Enterprise SSO
 - 14-24: Tinybird Forward Launch Week - Open-source analytics backend platform
