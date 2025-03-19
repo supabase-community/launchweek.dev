@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 03 / W13
+
+- 24-28: Lamatic Launch Week - Agentic AI development platform
+
 2025 / 03 / W12
 
 - 17-21: Bucket DX Launch Week - Feature flags for SaaS
@@ -30,11 +34,7 @@
 - 10-14: Autumn Launch Week - Open-source pricing & billing platform
 - 10-14: Cyclops Launch week 02 - Framework for building dev platforms
 - 10-14: Nango Launch Week - Product integration platform
-- 10-14: Openfort Launch Week 2 — Framework for building wallet SDKs 
-
-2025 / 03 / W10
-
-- 03-07: Railway Launch Week 02 - Out-of-the-box git to deployment
+- 10-14: Openfort Launch Week 2 — Framework for building wallet SDKs
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
