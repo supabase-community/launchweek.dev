@@ -22,6 +22,7 @@
 
 - 24-28: Lamatic Launch Week - Agentic AI development platform
 - 24-28: Resend Launch Week 4 - Email API
+- 24-28: Meilisearch Launch Week — Open-source search engine
 
 2025 / 03 / W12
 
