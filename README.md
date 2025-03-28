@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 04 / W14
+
+- 31-04: Supabase Launch Week 14 — Open-source Firebase alternative
+
 2025 / 03 / W13
 
 - 24-28: Lamatic Launch Week - Agentic AI development platform
@@ -30,13 +34,6 @@
 - 17-21: Pinecone Launch Week 2 - AI infrastructure
 - 17-21: WorkOS Launch Week 3 - Enterprise SSO
 - 14-24: Tinybird Forward Launch Week - Open-source analytics backend platform
-
-2025 / 03 / W11
-
-- 10-14: Autumn Launch Week - Open-source pricing & billing platform
-- 10-14: Cyclops Launch week 02 - Framework for building dev platforms
-- 10-14: Nango Launch Week - Product integration platform
-- 10-14: Openfort Launch Week 2 — Framework for building wallet SDKs
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
