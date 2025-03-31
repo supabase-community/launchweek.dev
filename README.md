@@ -21,19 +21,14 @@
 2025 / 04 / W14
 
 - 31-04: Supabase Launch Week 14 — Open-source Firebase alternative
+- 31-04: Langflow Launch Week — Low-code app builder for multi-agent AI, prompting & RAG
 
 2025 / 03 / W13
 
-- 24-28: Lamatic Launch Week - Agentic AI development platform
-- 24-28: Meilisearch Launch Week 2 — Open-source search engine
 - 24-28: Resend Launch Week 4 - Email API
-
-2025 / 03 / W12
-
-- 17-21: Bucket DX Launch Week - Feature flags for SaaS
-- 17-21: Pinecone Launch Week 2 - AI infrastructure
-- 17-21: WorkOS Launch Week 3 - Enterprise SSO
-- 14-24: Tinybird Forward Launch Week - Open-source analytics backend platform
+- 24-28: Meilisearch Launch Week 2 — Open-source search engine
+- 24-28: Akto Launch Week - API Security in DevSecOps
+- 24-28: Lamatic Launch Week - Agentic AI development platform
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
