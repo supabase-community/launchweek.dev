@@ -21,6 +21,7 @@
 2025 / 04 / W14
 
 - 31-04: Supabase Launch Week 14 — Open-source Firebase alternative
+- 31-04: Ocular Launch Week II - MultiModal AI & Computer Vision
 - 31-04: Langflow Launch Week — Low-code app builder for multi-agent AI, prompting & RAG
 
 2025 / 03 / W13
