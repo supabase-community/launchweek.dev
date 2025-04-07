@@ -18,18 +18,15 @@
 
 ## upcoming
 
+2025 / 04 / W15
+
+- 07-11: Exa Launch Week — Web Search API
+
 2025 / 04 / W14
 
 - 31-04: Supabase Launch Week 14 — Open-source Firebase alternative
 - 31-04: Ocular Launch Week II - MultiModal AI & Computer Vision
 - 31-04: Langflow Launch Week — Low-code app builder for multi-agent AI, prompting & RAG
-
-2025 / 03 / W13
-
-- 24-28: Resend Launch Week 4 - Email API
-- 24-28: Meilisearch Launch Week 2 — Open-source search engine
-- 24-28: Akto Launch Week - API Security in DevSecOps
-- 24-28: Lamatic Launch Week - Agentic AI development platform
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
