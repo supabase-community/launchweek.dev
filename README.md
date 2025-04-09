@@ -18,6 +18,14 @@
 
 ## upcoming
 
+2025 / 04 / W17
+
+- 21-25: Permit.io CLI Launch Week — Developer-first integrated authZ
+
+2025 / 04 / W16
+
+- 14-17: Wasp Launch Week 9 — Rails-like framework for React, Node.js and Prisma
+
 2025 / 04 / W15
 
 - 07-11: Exa Launch Week — Web Search API
