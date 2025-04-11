@@ -25,6 +25,7 @@
 2025 / 04 / W16
 
 - 14-17: Wasp Launch Week 9 — Rails-like framework for React, Node.js and Prisma
+- 14-17: Agenta Launch Week #1 — Open-source LLMOps platform with prompt management, evaluation, and observability
 
 2025 / 04 / W15
 
