@@ -24,18 +24,14 @@
 
 2025 / 04 / W16
 
-- 14-17: Wasp Launch Week 9 — Rails-like framework for React, Node.js and Prisma
 - 14-17: Agenta Launch Week — Open-source LLMOps platform with prompt management, evaluation, and observability
+- 14-17: Astro 5.7 Launch Week - JS framework for content-driven sites
+- 14-17: Theneo Launch Week 2 — AI-powered API documentation
+- 14-17: Wasp Launch Week 9 — Rails-like framework for React, Node.js and Prisma
 
 2025 / 04 / W15
 
 - 07-11: Exa Launch Week — Web Search API
-
-2025 / 04 / W14
-
-- 31-04: Supabase Launch Week 14 — Open-source Firebase alternative
-- 31-04: Ocular Launch Week II - MultiModal AI & Computer Vision
-- 31-04: Langflow Launch Week — Low-code app builder for multi-agent AI, prompting & RAG
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
