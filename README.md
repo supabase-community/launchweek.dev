@@ -30,10 +30,6 @@
 - 14-17: Theneo Launch Week 2 — AI-powered API documentation
 - 14-17: Wasp Launch Week 9 — Rails-like framework for React, Node.js and Prisma
 
-2025 / 04 / W15
-
-- 07-11: Exa Launch Week — Web Search API
-
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
 ## objectives
