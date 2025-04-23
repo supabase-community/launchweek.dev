@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 04 / W18
+
+- 28-02: Knock Launch Week — Notifications infrastructure
+
 2025 / 04 / W17
 
 - 21-25: Permit.io CLI Launch Week — Developer-first integrated authZ
