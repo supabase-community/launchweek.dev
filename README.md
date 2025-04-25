@@ -21,6 +21,7 @@
 2025 / 04 / W18
 
 - 28-02: Knock Launch Week — Notifications infrastructure
+- 28-02: Daytona Launch Week 5 — Secure and Elastic Infrastructure for Running Al-Generated Code.
 
 2025 / 04 / W17
 
