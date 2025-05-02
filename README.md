@@ -20,19 +20,12 @@
 
 2025 / 04 / W18
 
+- 28-02: Daytona Creative Launch Week 5 — Secure and elastic infra for running AI-generated code
 - 28-02: Knock Launch Week — Notifications infrastructure
 
 2025 / 04 / W17
 
 - 21-25: Permit.io CLI Launch Week — Developer-first integrated authZ
-
-2025 / 04 / W16
-
-- 14-20: Firecrawl Launch Week III — Web scraping API
-- 14-17: Agenta Launch Week — Open-source LLMOps platform
-- 14-17: Astro 5.7 Launch Week - JS framework for content-driven sites
-- 14-17: Theneo Launch Week 2 — AI-powered API documentation
-- 14-17: Wasp Launch Week 9 — Rails-like framework for React, Node.js and Prisma
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
