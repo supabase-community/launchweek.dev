@@ -18,14 +18,15 @@
 
 ## upcoming
 
+2025 / 05 / W19
+
+- 05-09: Nx 21 Launch Week — Build system for monorepos
+- 05-07: Azion Launch Week — Full-stack edge computing platform
+
 2025 / 04 / W18
 
 - 28-02: Daytona Creative Launch Week 5 — Secure and elastic infra for running AI-generated code
 - 28-02: Knock Launch Week — Notifications infrastructure
-
-2025 / 04 / W17
-
-- 21-25: Permit.io CLI Launch Week — Developer-first integrated authZ
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
