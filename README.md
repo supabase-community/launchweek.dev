@@ -20,6 +20,7 @@
 
 2025 / 05 / W21
 
+- 19-23: Langfuse Launch Week 3 - Open-source LLM observability platform
 - 19-23: Ragie Launch Week 2 — Fully managed RAG-as-a-Service
 
 2025 / 05 / W19
