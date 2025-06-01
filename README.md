@@ -18,15 +18,9 @@
 
 ## upcoming
 
-2025 / 05 / W21
+2025 / 06 / W23
 
-- 19-23: Langfuse Launch Week 3 - Open-source LLM observability platform
-- 19-23: Ragie Launch Week 2 — Fully managed RAG-as-a-Service
-
-2025 / 05 / W19
-
-- 05-09: Nx 21 Launch Week — Build system for monorepos
-- 05-07: Azion Launch Week — Full-stack edge computing platform
+- 02-06: Daytona Create Launch Week 6 - Secure and Elastic Infra for Running Your AI-Generated Code
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
