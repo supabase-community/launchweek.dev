@@ -18,9 +18,10 @@
 
 ## upcoming
 
-2025 / 06 / W23
+2025 / 06 / W25
 
-- 02-06: Daytona Create Launch Week 6 - Secure and Elastic Infra for Running Your AI-Generated Code
+- 14-20: Lago Launch Week IV - Open-source usage-based billing and metering solution.
+- 14-20: voltagent Launch Week - Open-source TypeScript AI agent framework.
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
