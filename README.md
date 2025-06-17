@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 06 / W26
+
+- 23-27: Tinybird Launch Week 3 - Open-source analytics backend for apps and agents
+
 2025 / 06 / W25
 
 - 14-20: Lago Launch Week IV - Open-source usage-based billing and metering solution.
