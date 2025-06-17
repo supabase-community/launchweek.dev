@@ -20,6 +20,7 @@
 
 2025 / 06 / W26
 
+- 23-26: Leap Launch Week - Full-stack AI developer agent
 - 23-27: Tinybird Launch Week 3 - Open-source analytics backend for apps and agents
 
 2025 / 06 / W25
