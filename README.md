@@ -27,8 +27,9 @@
 
 2025 / 06 / W25
 
-- 14-20: Lago Launch Week IV - Open-source usage-based billing and metering solution.
-- 14-20: voltagent Launch Week - Open-source TypeScript AI agent framework.
+- 16-20: Lago Launch Week IV - Open-source usage-based billing and metering solution
+- 16-20: voltagent Launch Week - Open-source TypeScript AI agent framework
+- 17-20: Kerno Launch Week - Runtime intelligence engine
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
