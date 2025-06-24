@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 07 / W28
+
+- 07-11: Coder Launch Week - Secure environments for devs and agents
+
 2025 / 06 / W26
 
 - 23-26: Leap Launch Week - Full-stack AI developer agent
