@@ -22,6 +22,10 @@
 
 - 07-11: Coder Launch Week - Secure environments for devs and agents
 
+2025 / 06 / W27
+
+- 30-05: Flexprice Launch Week - Open-source usage-based pricing and billing solution
+
 2025 / 06 / W26
 
 - 23-26: Leap Launch Week - Full-stack AI developer agent
