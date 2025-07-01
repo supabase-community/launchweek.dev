@@ -24,7 +24,8 @@
 
 2025 / 06 / W27
 
-- 30-05: Flexprice Launch Week - Open-source usage-based pricing and billing solution
+- 30-04: Flexprice Launch Week - Open-source usage-based pricing and billing solution
+- 30-04: SuperTokens Launch Week - Open-source user authentication
 
 2025 / 06 / W26
 
@@ -34,12 +35,6 @@
 - 23-27: Scalekit AI Launch Week - Drop-in OAuth for MCP servers
 - 23-27: Tinybird Launch Week 3 - Analytics backend platform for apps and agents
 - 23-27: WorkOS Launch Week 4 - Enterprise SSO
-
-2025 / 06 / W25
-
-- 16-20: Lago Launch Week IV - Open-source usage-based billing and metering solution
-- 16-20: voltagent Launch Week - Open-source TypeScript AI agent framework
-- 17-20: Kerno Launch Week - Runtime intelligence engine
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
