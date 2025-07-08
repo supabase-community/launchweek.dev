@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 07 / W29
+
+- 14-18: Wasp Launch Week 10 - Rails-like framework for React
+
 2025 / 07 / W28
 
 - 07-11: Coder Launch Week - Secure environments for devs and agents
@@ -26,15 +30,6 @@
 
 - 30-04: Flexprice Launch Week - Open-source usage-based pricing and billing solution
 - 30-04: SuperTokens Launch Week - Open-source user authentication
-
-2025 / 06 / W26
-
-- 23-26: Leap Launch Week - Full-stack AI developer agent
-- 23-27: dstack Launch Week 3 - Open-source Kubernetes and Slurm alternative for AI
-- 23-27: Reducto Launch Week - Document processing API
-- 23-27: Scalekit AI Launch Week - Drop-in OAuth for MCP servers
-- 23-27: Tinybird Launch Week 3 - Analytics backend platform for apps and agents
-- 23-27: WorkOS Launch Week 4 - Enterprise SSO
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
