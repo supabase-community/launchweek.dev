@@ -22,6 +22,7 @@
 
 - 14-18: Supabase Launch Week 15 - Open-source Firebase alternative
 - 14-18: Wasp Launch Week 10 - Rails-like framework for React
+- 15-18: VideoSDK Launch Week - Open-source framework for real-time AI voice
 
 2025 / 07 / W28
 
