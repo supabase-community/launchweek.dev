@@ -28,11 +28,6 @@
 
 - 07-11: Coder Launch Week - Secure environments for devs and agents
 
-2025 / 06 / W27
-
-- 30-04: Flexprice Launch Week - Open-source usage-based pricing and billing solution
-- 30-04: SuperTokens Launch Week - Open-source user authentication
-
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
 ## objectives
