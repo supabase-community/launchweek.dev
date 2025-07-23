@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 07 / W30
+
+- 21-25: Postgres AI Launch Week -  Taking care of Postgres for fast-growing startups
+
 2025 / 07 / W29
 
 - 14-18: BaseHub AI Launch Week - Fast, flexible headless CMS
