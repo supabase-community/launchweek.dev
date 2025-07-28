@@ -20,7 +20,7 @@
 
 2025 / 07 / W30
 
-- 21-25: Postgres AI Launch Week -  Taking care of Postgres for fast-growing startups
+- 21-25: Postgres AI Launch Week - Advanced Postgres support
 
 2025 / 07 / W29
 
@@ -28,10 +28,6 @@
 - 14-18: Supabase Launch Week 15 - Open-source Firebase alternative
 - 14-18: Wasp Launch Week 10 - Rails-like framework for React
 - 15-18: VideoSDK Launch Week - Open-source framework for real-time AI voice
-
-2025 / 07 / W28
-
-- 07-11: Coder Launch Week - Secure environments for devs and agents
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
