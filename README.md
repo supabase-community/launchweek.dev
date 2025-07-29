@@ -18,6 +18,10 @@
 
 ## upcoming
 
+2025 / 08 / W32
+
+- 04-08: Cosine Summer 2025 Launch Week - AI-powered IDE
+
 2025 / 07 / W31
 
 - 28-31: Augment Summer 2025 Launch Week - AI software development platform
