@@ -21,6 +21,7 @@
 2025 / 08 / W32
 
 - 04-08: Cosine Summer 2025 Launch Week - AI-powered IDE
+- 04-08: Openfort Launch Week 3 - Framework for building wallet SDKs
 
 2025 / 07 / W31
 
