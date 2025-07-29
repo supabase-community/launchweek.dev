@@ -20,6 +20,7 @@
 
 2025 / 07 / W31
 
+- 28-31: Augment Summer 2025 Launch Week - AI software development platform
 - 29-01: Bucket Launch Week 2 - Feature flags for SaaS that run on TypeScript
 
 2025 / 07 / W30
