@@ -18,21 +18,17 @@
 
 ## upcoming
 
+2025 / 08 / W33
+
+- 18-22: Flexprice Launch Week 2 - Open-source usage-based pricing and billing solution
+- 18-22: Last9 Launch Week - Unified observability platform
+- 18-22: Momentic Launch Week - Automated testing platform
+- 18-22: Trigger.dev Launch Week 2 - Background jobs and AI infrastructure
+
 2025 / 08 / W32
 
 - 04-08: Cosine Summer 2025 Launch Week - AI-powered IDE
 - 04-08: Openfort Launch Week 3 - Framework for building wallet SDKs
-
-2025 / 07 / W31
-
-- 28-31: Augment Summer 2025 Launch Week - AI software development platform
-- 28-01: Socket Launch Week 2 - Software supply chain security platform
-- 28-01: VibeKit Launch Week - SDK for running coding agents
-- 29-01: Bucket Launch Week 2 - Feature flags for SaaS that run on TypeScript
-
-2025 / 07 / W30
-
-- 21-25: Postgres AI Launch Week - Advanced Postgres support
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
