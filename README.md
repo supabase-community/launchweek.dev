@@ -18,17 +18,16 @@
 
 ## upcoming
 
-2025 / 08 / W33
+2025 / 09 / W36
+
+- 01-05: SigNoz Launch Week 5.0 - OpenTelemetry native, open-source observability platform
+
+2025 / 08 / W34
 
 - 18-22: Flexprice Launch Week 2 - Open-source usage-based pricing and billing solution
 - 18-22: Last9 Launch Week - Unified observability platform
 - 18-22: Momentic Launch Week - Automated testing platform
 - 18-22: Trigger.dev Launch Week 2 - Background jobs and AI infrastructure
-
-2025 / 08 / W32
-
-- 04-08: Cosine Summer 2025 Launch Week - AI-powered IDE
-- 04-08: Openfort Launch Week 3 - Framework for building wallet SDKs
 
 **Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
 
