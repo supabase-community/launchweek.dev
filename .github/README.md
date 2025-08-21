@@ -12,24 +12,8 @@
 
 **This repository tracks past and upcoming launch weeks across the dev tools space.**
 
-```diff
-+ 👀 Watch this repo to get notifications about new launch weeks
-```
-
-## upcoming
-
-2025 / 09 / W36
-
-- 01-05: SigNoz Launch Week 5.0 - OpenTelemetry native, open-source observability platform
-
-2025 / 08 / W34
-
-- 18-22: Flexprice Launch Week 2 - Open-source usage-based pricing and billing solution
-- 18-22: Last9 Launch Week - Unified observability platform
-- 18-22: Momentic Launch Week - Automated testing platform
-- 18-22: Trigger.dev Launch Week 2 - Background jobs and AI infrastructure
-
-**Want to be part of it? [Create a Pull Request here](https://github.com/supabase-community/launchweek.dev/pulls).**
+> [!TIP] 
+> Watch this repo to get notifications about new launch weeks
 
 ## objectives
 
@@ -64,6 +48,5 @@ For best practices, read this:
 
 - [How we launch at Supabase (by Ant Wilson)](https://supabase.com/blog/supabase-how-we-launch)
 
-```diff
-+ 👀 Watch this repo to get notifications about new launch weeks
-```
+> [!TIP] 
+> Watch this repo to get notifications about new launch weeks
