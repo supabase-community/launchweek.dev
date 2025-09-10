@@ -41,7 +41,7 @@ Some additional notes:
 - <Icon icon="check" iconType="solid" /> Add the launch week:
 ```md
 <Card title="{product} Launch Week" href="{link}">
-  YYYY / MM / DD-DD // {linkCta} ↗︎
+  {productDescription}
 </Card>
 ```
 
