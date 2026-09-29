@@ -31,7 +31,8 @@
         "group": "best practices",
         "pages": [
           "n/supabase",
-          "n/resend"
+          "n/resend",
+          "n/product-hunt"
         ]
       },
       {
