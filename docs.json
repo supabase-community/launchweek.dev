@@ -73,7 +73,7 @@
   "footer": {
     "socials": {
       "github": "https://git.new/lw",
-      "x": "https://x.com/launchweekdev"
+      "x": "https://x.com/intent/user?screen_name=launchweekdev"
     },
     "links": [
       {
@@ -94,15 +94,32 @@
         ]
       },
       {
+        "header": "affiliates",
+        "items": [
+          {
+            "label": "coderabbit",
+            "href": "https://lweek.dev/coderabbit"
+          },
+          {
+            "label": "firecrawl",
+            "href": "https://lweek.dev/firecrawl"
+          },
+          {
+            "label": "raycast",
+            "href": "https://lweek.dev/raycast"
+          }
+        ]
+      },
+      {
         "header": "maintainers",
         "items": [
           {
             "label": "Paul Copplestone",
-            "href": "https://x.com/kiwicopple"
+            "href": "https://x.com/intent/user?screen_name=kiwicopple"
           },
           {
             "label": "Flo Merian",
-            "href": "https://x.com/fmerian"
+            "href": "https://x.com/intent/user?screen_name=fmerian"
           }
         ]
       }
