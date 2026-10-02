@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "linden",
   "name": "launchweek.dev",
   "colors": {
-    "primary": "#8957E5",
-    "light": "#8957E5",
-    "dark": "#8957E5"
+    "primary": "#FE6054",
+    "light": "#FE6054",
+    "dark": "#FE6054"
   },
   "favicon": "/img/lw-icon-dark.svg",
   "navigation": {
@@ -52,18 +52,13 @@
     "dark": "/img/lw-icon-dark.svg"
   },
   "appearance": {
-    "default": "dark"
+    "default": "dark",
+    "strict": true
   },
   "background": {
     "color": {
       "light": "#FFFFFF",
-      "dark": "#0D1117"
-    }
-  },
-  "navbar": {
-    "primary": {
-      "type": "github",
-      "href": "https://github.com/supabase-community/launchweek.dev"
+      "dark": "#171920"
     }
   },
   "seo": {
@@ -123,15 +118,6 @@
         ]
       }
     ]
-  },
-  "fonts": {
-    "heading": {
-      "family": "JetBrains Mono",
-      "weight": 400
-    },
-    "body": {
-      "family": "Inter"
-    }
   },
   "redirects": [
     {
