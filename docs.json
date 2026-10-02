@@ -30,16 +30,16 @@
       {
         "group": "best practices",
         "pages": [
-          "n/supabase",
-          "n/resend",
-          "n/product-hunt"
+          "lw/n/supabase",
+          "lw/n/resend",
+          "lw/n/product-hunt"
         ]
       },
       {
         "group": "maintainers",
         "pages": [
-          "n/kiwicopple",
-          "n/fmerian"
+          "lw/n/kiwicopple",
+          "lw/n/fmerian"
         ]
       }
     ]
