@@ -9,37 +9,41 @@
   },
   "favicon": "/img/lw-icon-dark.svg",
   "navigation": {
-    "groups": [
+    "versions": [
       {
-        "group": "launchweek.dev",
-        "pages": [
-          "home",
-          "lw/new",
-          "lw/faq"
-        ]
-      },
-      {
-        "group": "launch weeks",
-        "pages": [
+        "version": "1.0",
+        "groups": [
           {
-            "group": "by year",
-            "pages": ["lw/2026", "lw/2025", "lw/2024", "lw/2023", "lw/2022", "lw/2021"]
+            "group": "launchweek.dev",
+            "pages": ["lw/home", "lw/new", "lw/faq"]
+          },
+          {
+            "group": "launch weeks",
+            "pages": [
+              {
+                "group": "by year",
+                "pages": ["lw/2025", "lw/2024", "lw/2023", "lw/2022", "lw/2021"]
+              }
+            ]
+          },
+          {
+            "group": "best practices",
+            "pages": ["lw/n/supabase", "lw/n/resend"]
+          },
+          {
+            "group": "maintainers",
+            "pages": ["lw/n/kiwicopple", "lw/n/fmerian"]
           }
         ]
       },
       {
-        "group": "best practices",
-        "pages": [
-          "lw/n/supabase",
-          "lw/n/resend",
-          "lw/n/product-hunt"
-        ]
-      },
-      {
-        "group": "maintainers",
-        "pages": [
-          "lw/n/kiwicopple",
-          "lw/n/fmerian"
+        "version": "2.0",
+        "default": true,
+        "groups": [
+          {
+            "group": "launchweek.dev",
+            "pages": ["leaderboard/weekly/2026/40"]
+          }
         ]
       }
     ]
@@ -75,15 +79,11 @@
         "items": [
           {
             "label": "README.md",
-            "href": "https://launchweek.dev/"
+            "href": "https://git.new/lw"
           },
           {
             "label": "CONTRIBUTING.md",
-            "href": "https://launchweek.dev/lw/new"
-          },
-          {
-            "label": "FAQ.md",
-            "href": "https://launchweek.dev/lw/faq"
+            "href": "https://git.new/lw"
           }
         ]
       },
@@ -91,12 +91,8 @@
         "header": "affiliates",
         "items": [
           {
-            "label": "coderabbit",
-            "href": "https://lweek.dev/coderabbit"
-          },
-          {
-            "label": "firecrawl",
-            "href": "https://lweek.dev/firecrawl"
+            "label": "dub",
+            "href": "https://lweek.dev/dub"
           },
           {
             "label": "raycast",
